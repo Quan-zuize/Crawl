@@ -1,0 +1,12 @@
+logging:
+  config: config/logback.xml
+
+spring:
+  application:
+    name: location-service
+  data:
+    mongodb:
+      uri: mongodb+srv://quan2004:quan2004@bootify.psn4tzo.mongodb.net/sample_mflix
+
+server:
+  port: 9000

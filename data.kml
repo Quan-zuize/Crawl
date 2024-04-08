@@ -1,0 +1,3372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Bản đồ bưu cục GHN</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Bưu cục GHN</name>
+      <Placemark>
+        <name>Bưu Cục 100 Giáp Hải</name>
+        <address>Số nhà 100 - Đường Giáp Hải Thành Phố Bắc Giang-Bắc Giang</address>
+        <description>Số nhà 100 - Đường Giáp Hải Thành Phố Bắc Giang-Bắc Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 230 Lê Lợi</name>
+        <address>Số nhà 230 - Đường Lê Lợi Huyện Lạng Giang-Bắc Giang</address>
+        <description>Số nhà 230 - Đường Lê Lợi Huyện Lạng Giang-Bắc Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Hiệp Hòa</name>
+        <address>Thôn Hưng Thịnh Huyện Hiệp Hòa-Bắc Giang</address>
+        <description>Thôn Hưng Thịnh Huyện Hiệp Hòa-Bắc Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Lục Nam</name>
+        <address>Thôn Kỳ anh Huyện Lục Nam-Bắc Giang</address>
+        <description>Thôn Kỳ anh Huyện Lục Nam-Bắc Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Lục Ngạn</name>
+        <address>Khu phố Trần Phú Huyện Lục Ngạn-Bắc Giang</address>
+        <description>Khu phố Trần Phú Huyện Lục Ngạn-Bắc Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tân Yên</name>
+        <address>Phố Hòa Bình Huyện Yên Thế-Bắc Giang</address>
+        <description>Phố Hòa Bình Huyện Yên Thế-Bắc Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Việt Yên</name>
+        <address>Khu dân cư thương mãi xã Bích sơn Huyện Việt Yên-Bắc Giang</address>
+        <description>Khu dân cư thương mãi xã Bích sơn Huyện Việt Yên-Bắc Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Yên Dũng</name>
+        <address>Số nhà 100 - Đường Giáp Hải Thành Phố Bắc Giang-Bắc Giang</address>
+        <description>Số nhà 100 - Đường Giáp Hải Thành Phố Bắc Giang-Bắc Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Yên Thế</name>
+        <address>Phố Hòa Bình Huyện Yên Thế-Bắc Giang</address>
+        <description>Phố Hòa Bình Huyện Yên Thế-Bắc Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 65 Nguyễn Văn Thoát</name>
+        <address>Số nhà 65 - Đường Nguyễn Văn Thoát Thành phố Bắc Kạn-Bắc Kạn</address>
+        <description>Số nhà 65 - Đường Nguyễn Văn Thoát Thành phố Bắc Kạn-Bắc Kạn</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Bảo Lạc</name>
+        <address>tổ 24 phường Đề Thám Thành phố Cao Bằng-Cao Bằng</address>
+        <description>tổ 24 phường Đề Thám Thành phố Cao Bằng-Cao Bằng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Quảng Uyên</name>
+        <address>Thị trấn Quảng Uyên Huyện Quảng Uyên-Cao Bằng</address>
+        <description>Thị trấn Quảng Uyên Huyện Quảng Uyên-Cao Bằng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Cao Bằng</name>
+        <address>tổ 24 phường Đề Thám Thành phố Cao Bằng-Cao Bằng</address>
+        <description>tổ 24 phường Đề Thám Thành phố Cao Bằng-Cao Bằng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 02 Lê Quý Đôn</name>
+        <address>số 02 Lê Quý Đôn Huyện Yên Minh-Hà Giang</address>
+        <description>số 02 Lê Quý Đôn Huyện Yên Minh-Hà Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 2A Nguyễn Du</name>
+        <address>số 02A - Nguyễn Du Thành phố Hà Giang-Hà Giang</address>
+        <description>số 02A - Nguyễn Du Thành phố Hà Giang-Hà Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Hoàng Su Phì</name>
+        <address>Tổ 5 thị trấn Vinh Quang Huyện Hoàng Su Phì-Hà Giang</address>
+        <description>Tổ 5 thị trấn Vinh Quang Huyện Hoàng Su Phì-Hà Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Mèo Vạc</name>
+        <address>Tổ 3 thị trấn Mèo Vạc Huyện Mèo Vạc-Hà Giang</address>
+        <description>Tổ 3 thị trấn Mèo Vạc Huyện Mèo Vạc-Hà Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Việt Quang 1</name>
+        <address>Tổ 8 thị trấn Việt Quang Huyện Bắc Quang-Hà Giang</address>
+        <description>Tổ 8 thị trấn Việt Quang Huyện Bắc Quang-Hà Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Việt Quang 2</name>
+        <address>Tổ 8 thị trấn Việt Quang Huyện Bắc Quang-Hà Giang</address>
+        <description>Tổ 8 thị trấn Việt Quang Huyện Bắc Quang-Hà Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 35 Lục Giàng</name>
+        <description>Số 35 Lục Giàng Huyện Cao Lộc-Lạng Sơn</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 68 Khu Ga</name>
+        <description>số nhà 68 đường khu ga Huyện Chi Lăng-Lạng Sơn</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Bắc Sơn</name>
+        <description>KM3 đường 243 Huyện Bắc Sơn-Lạng Sơn</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Hữu Lũng</name>
+        <address>Thôn Đồng Ngầu Huyện Hữu Lũng-Lạng Sơn</address>
+        <description>Thôn Đồng Ngầu Huyện Hữu Lũng-Lạng Sơn</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tràng Định</name>
+        <address>thôn đoỏng nà Huyện Tràng ĐỊnh-Lạng Sơn</address>
+        <description>thôn đoỏng nà Huyện Tràng ĐỊnh-Lạng Sơn</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Văn Lãng</name>
+        <description>140 khu 1 Huyện Văn Lãng-Lạng Sơn</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 83 Thanh Niên Xung Phong</name>
+        <address>Số nhà 83 - Đường Thanh Niên Xung Phong Thành phố Thái Nguyên-Thái Nguyên</address>
+        <description>Số nhà 83 - Đường Thanh Niên Xung Phong Thành phố Thái Nguyên-Thái Nguyên</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 106 Phạm Văn Đồng</name>
+        <address>Số nhà 106 - Đường Phạm Văn Đồng Huyện Phổ Yên-Thái Nguyên</address>
+        <description>Số nhà 106 - Đường Phạm Văn Đồng Huyện Phổ Yên-Thái Nguyên</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 430 Bắc Kạn</name>
+        <address>Số nhà 430/1 - Đường Bắc Kạn Thành phố Thái Nguyên-Thái Nguyên</address>
+        <description>Số nhà 430/1 - Đường Bắc Kạn Thành phố Thái Nguyên-Thái Nguyên</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 757 Dương Tự Minh</name>
+        <address>Số nhà 757 - Đường Dương Tự Minh Huyện Phú Lương-Thái Nguyên</address>
+        <description>Số nhà 757 - Đường Dương Tự Minh Huyện Phú Lương-Thái Nguyên</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đại Từ</name>
+        <address>Xóm Phố Dầu Huyện Đại Từ-Thái Nguyên</address>
+        <description>Xóm Phố Dầu Huyện Đại Từ-Thái Nguyên</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đồng Hỷ</name>
+        <address>Xóm Đồng Thái Huyện Đồng Hỷ-Thái Nguyên</address>
+        <description>Xóm Đồng Thái Huyện Đồng Hỷ-Thái Nguyên</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Phú Bình</name>
+        <address>Xóm Mai Sơn Huyện Phú Bình-Thái Nguyên</address>
+        <description>Xóm Mai Sơn Huyện Phú Bình-Thái Nguyên</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Hàm Yên</name>
+        <description>Ngõ 358 Tổ dân phố Tân An Huyện Hàm Yên-Tuyên Quang</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Hồng Thái</name>
+        <address>Cạnh số 54 phố Hồng Thái Thành phố Tuyên Quang-Tuyên Quang</address>
+        <description>Cạnh số 54 phố Hồng Thái Thành phố Tuyên Quang-Tuyên Quang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Sơn Dương</name>
+        <description>Tổ dân phố Tân An Huyện Sơn Dương-Tuyên Quang</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 168 Nguyễn Tất Thành-Vĩnh Yên-Vĩnh Phúc 01</name>
+        <address>Số 168 Đường Nguyễn tất Thành, Khu Hành Chính 15, Phường Liên Bảo, TP Vĩnh Yên, Vĩnh Phúc</address>
+        <description>Số 168 Đường Nguyễn tất Thành, Khu Hành Chính 15, Phường Liên Bảo, TP Vĩnh Yên, Vĩnh Phúc</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Phúc Yên-Vĩnh Phúc</name>
+        <address>Khu phố 2, Thị trấn Hương Canh, Huyện Bình Xuyên, Vĩnh Phúc</address>
+        <description>Khu phố 2, Thị trấn Hương Canh, Huyện Bình Xuyên, Vĩnh Phúc</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Sông Lô-Vĩnh Phúc</name>
+        <address>Khu 1 Minh Khai, Xã Yên Thạch, Huyện Sông Lô, Vĩnh Phúc</address>
+        <description>Khu 1 Minh Khai, Xã Yên Thạch, Huyện Sông Lô, Vĩnh Phúc</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Bình Xuyên-Vĩnh Phúc</name>
+        <address>Khu phố 2, Thị trấn Hương Canh, Huyện Bình Xuyên, Vĩnh Phúc</address>
+        <description>Khu phố 2, Thị trấn Hương Canh, Huyện Bình Xuyên, Vĩnh Phúc</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 119 Hùng Vương-Vĩnh Yên-Vĩnh Phúc</name>
+        <address>119 Hùng Vương, Phường Tích Sơn, Thành Phố Vĩnh Yên, Vĩnh Phúc</address>
+        <description>119 Hùng Vương, Phường Tích Sơn, Thành Phố Vĩnh Yên, Vĩnh Phúc</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 168 Nguyễn Tất Thành-Vĩnh Yên-Vĩnh Phúc 02</name>
+        <address>Số 168 Đường Nguyễn tất Thành, Khu Hành Chính 15, Phường Liên Bảo, TP Vĩnh Yên, Vĩnh Phúc</address>
+        <description>Số 168 Đường Nguyễn tất Thành, Khu Hành Chính 15, Phường Liên Bảo, TP Vĩnh Yên, Vĩnh Phúc</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 56 Lý Thường Kiệt-Đảo Phú Quốc-Kiên Giang</name>
+        <address>56 Lý Thường Kiệt-Đảo Phú Quốc-Kiên Giang</address>
+        <description>56 Lý Thường Kiệt-Đảo Phú Quốc-Kiên Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 17 Phùng Ngọc Liêm-TP.Bạc Liêu</name>
+        <address>17 Phùng Ngọc Liêm-TP.Bạc Liêu</address>
+        <description>17 Phùng Ngọc Liêm-TP.Bạc Liêu</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 33 Lê Duẩn-TP.Sóc Trăng</name>
+        <address>33 Lê Duẩn-TP.Sóc Trăng</address>
+        <description>33 Lê Duẩn-TP.Sóc Trăng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 680 QL1-TP.Sóc Trăng</name>
+        <address>680 QL1-TP.Sóc Trăng</address>
+        <description>680 QL1-TP.Sóc Trăng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 99 Quốc Lộ 1A-Giá Rai-Bạc Liêu</name>
+        <address>99 Quốc Lộ 1A-Giá Rai-Bạc Liêu</address>
+        <description>99 Quốc Lộ 1A-Giá Rai-Bạc Liêu</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Mỹ Xuyên-Sóc Trăng</name>
+        <address>Mỹ Xuyên-Sóc Trăng</address>
+        <description>Mỹ Xuyên-Sóc Trăng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Phước Long-Bạc Liêu</name>
+        <address>Phước Long-Bạc Liêu</address>
+        <description>Phước Long-Bạc Liêu</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 01 Châu Văn Liêm-Ngã Bảy-Hậu Giang</name>
+        <address>1 Châu Văn Liêm-Ngã Bảy-Hậu Giang</address>
+        <description>1 Châu Văn Liêm-Ngã Bảy-Hậu Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Châu Thành A-Hậu Giang</name>
+        <address>Châu Thành A-Hậu Giang</address>
+        <description>Châu Thành A-Hậu Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Nguyễn An Ninh-Vị Thanh-Hậu Giang</name>
+        <address>Nguyễn An Ninh-Vị Thanh-Hậu Giang</address>
+        <description>Nguyễn An Ninh-Vị Thanh-Hậu Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 05 Huyền Trân Công Chúa-Kiên Lương-Kiên Giang</name>
+        <address>5 Huyền Trân Công Chúa-Kiên Lương-Kiên Giang</address>
+        <description>5 Huyền Trân Công Chúa-Kiên Lương-Kiên Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 04 Trần Quang Khải-Rạch Giá-Kiên Giang</name>
+        <address>4 Trần Quang Khải-Rạch Giá-Kiên Giang</address>
+        <description>4 Trần Quang Khải-Rạch Giá-Kiên Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 391 Lâm Quang Ky-Rạch Giá-Kiên Giang 02</name>
+        <address>391 Lâm Quang Ky-Rạch Giá-Kiên Giang 2</address>
+        <description>391 Lâm Quang Ky-Rạch Giá-Kiên Giang 2</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Giồng Riềng-Kiên Giang</name>
+        <address>Giồng Riềng-Kiên Giang</address>
+        <description>Giồng Riềng-Kiên Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Hòn Đất-Kiên Giang</name>
+        <address>Hòn Đất-Kiên Giang</address>
+        <description>Hòn Đất-Kiên Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tân Hiệp-Kiên Giang</name>
+        <address>Tân Hiệp-Kiên Giang</address>
+        <description>Tân Hiệp-Kiên Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 16 Đỗ Nhuận-Long Xuyên-An Giang</name>
+        <address>16 Đỗ Nhuận-Long Xuyên-An Giang</address>
+        <description>16 Đỗ Nhuận-Long Xuyên-An Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 161 Nguyễn Tri Phương-Châu Đốc-An Giang</name>
+        <address>161 Nguyễn Tri Phương-Châu Đốc-An Giang</address>
+        <description>161 Nguyễn Tri Phương-Châu Đốc-An Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Châu Phú-An Giang</name>
+        <address>Châu Phú-An Giang</address>
+        <description>Châu Phú-An Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Chợ Mới-An Giang</name>
+        <address>Chợ Mới-An Giang</address>
+        <description>Chợ Mới-An Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tân Châu-An Giang</name>
+        <address>Tân Châu-An Giang</address>
+        <description>Tân Châu-An Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tri Tôn-An Giang</name>
+        <address>Tri Tôn-An Giang</address>
+        <description>Tri Tôn-An Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục An Khánh-Q.Ninh Kiều-Cần Thơ</name>
+        <address>An Khánh-Q.Ninh Kiều-Cần Thơ</address>
+        <description>An Khánh-Q.Ninh Kiều-Cần Thơ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 1190 QL91-Q.Ô Môn-Cần Thơ</name>
+        <address>1190 QL91-Q.Ô Môn-Cần Thơ</address>
+        <description>1190 QL91-Q.Ô Môn-Cần Thơ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Q.Cái Răng-Cần Thơ</name>
+        <address>Q.Cái Răng-Cần Thơ</address>
+        <description>Q.Cái Răng-Cần Thơ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Q.Thốt Nốt-Cần Thơ</name>
+        <address>Q.Thốt Nốt-Cần Thơ</address>
+        <description>Q.Thốt Nốt-Cần Thơ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Thoại Sơn-An Giang</name>
+        <address>Thoại Sơn-An Giang</address>
+        <description>Thoại Sơn-An Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Thị Xã Long Mỹ-Hậu Giang</name>
+        <address>Thị Xã Long Mỹ-Hậu Giang</address>
+        <description>Thị Xã Long Mỹ-Hậu Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 154B Mai Thị Hồng Hạnh-Rạch Giá-Kiên Giang</name>
+        <address>154B Mai Thị Hồng Hạnh-Rạch Giá-Kiên Giang</address>
+        <description>154B Mai Thị Hồng Hạnh-Rạch Giá-Kiên Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục L11-72 đường 49-Bình Thuỷ-Cần Thơ</name>
+        <description>L11-72 đường 49-Bình Thuỷ-Cần Thơ</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 54 Hùng Vương-Năm Căn-Cà Mau</name>
+        <address>54 Hùng Vương-Năm Căn-Cà Mau</address>
+        <description>54 Hùng Vương-Năm Căn-Cà Mau</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 67F Hải Thượng Lãn Ông-TP.Cà Mau</name>
+        <address>67F Hải Thượng Lãn Ông-TP.Cà Mau</address>
+        <description>67F Hải Thượng Lãn Ông-TP.Cà Mau</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Cái Nước-Cà Mau</name>
+        <address>Cái Nước-Cà Mau</address>
+        <description>Cái Nước-Cà Mau</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đầm Dơi-Cà Mau</name>
+        <address>Đầm Dơi-Cà Mau</address>
+        <description>Đầm Dơi-Cà Mau</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Thới Bình-Cà Mau</name>
+        <address>Thới Bình-Cà Mau</address>
+        <description>Thới Bình-Cà Mau</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Trần Văn Thời-Cà Mau</name>
+        <address>Trần Văn Thời-Cà Mau</address>
+        <description>Trần Văn Thời-Cà Mau</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Số 41 Trần Quốc Vượng, p Dịch Vọng Hậu, Q.Cầu giấy, Hà Nội</address>
+        <description>Số 41 Trần Quốc Vượng, p Dịch Vọng Hậu, Q.Cầu giấy, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>12 Trịnh Đình Cửu, p.Định Công, Q.Hoàng Mai, Hà Nội</address>
+        <description>12 Trịnh Đình Cửu, p.Định Công, Q.Hoàng Mai, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Lô 4, NV 1-2, 885 Tam Trinh, P. Yên Sở, Q. Hoàng Mai, Hà Nội</address>
+        <description>Lô 4, NV 1-2, 885 Tam Trinh, P. Yên Sở, Q. Hoàng Mai, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>5B Thanh Đàm, P. Thanh Trì, Quận Hoàng Mai, Hà Nội</address>
+        <description>5B Thanh Đàm, P. Thanh Trì, Quận Hoàng Mai, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>21 Thanh Liệt, Xã Thanh Liệt, Huyện Thanh Trì, Hà Nội</address>
+        <description>21 Thanh Liệt, Xã Thanh Liệt, Huyện Thanh Trì, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description>Số 4 lô 4B Đền Lừ 2, P. Hoàng Văn Thụ, Q. Hoàng Mai, Hà Nội</description>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>235 Nguyễn Xiển Phường Hạ ĐÌnh, Quận Thanh Xuân, Thành Phố Hà Nội</address>
+        <description>235 Nguyễn Xiển Phường Hạ ĐÌnh, Quận Thanh Xuân, Thành Phố Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>442 Nguyễn Trãi Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành Phố Hà Nội</address>
+        <description>442 Nguyễn Trãi Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành Phố Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>229 Quan Nhân, Phường Nhân Chính, Quận Thanh Xuân, Thành Phố Hà Nội</address>
+        <description>229 Quan Nhân, Phường Nhân Chính, Quận Thanh Xuân, Thành Phố Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>188 Nguyễn Ngọc Nại, Phường Khương Mai, Quận Thanh Xuân, Thành Phố Hà Nội</address>
+        <description>188 Nguyễn Ngọc Nại, Phường Khương Mai, Quận Thanh Xuân, Thành Phố Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>188 Khương Đình, Phường Hạ Đình, Quận Thanh Xuân, Thành Phố Hà Nội</address>
+        <description>188 Khương Đình, Phường Hạ Đình, Quận Thanh Xuân, Thành Phố Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Số 559 Vũ Tông Phan, Khương Đình, Thanh Xuân, Hà Nội</address>
+        <description>Số 559 Vũ Tông Phan, Khương Đình, Thanh Xuân, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Số 22 Thanh Yên, Phúc Tân, Hoàn Kiếm, Hà Nội</address>
+        <description>Số 22 Thanh Yên, Phúc Tân, Hoàn Kiếm, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Số 446 Bạch Đằng, Chương Dương, Hoàn Kiếm, Hà Nội</address>
+        <description>Số 446 Bạch Đằng, Chương Dương, Hoàn Kiếm, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>55C Nguyễn Khoái-Q.Hai Bà Trưng-HN</address>
+        <description>55C Nguyễn Khoái-Q.Hai Bà Trưng-HN</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>61 Kim Mã, Kim Mã, Ba Đình, Hà Nội</address>
+        <description>61 Kim Mã, Kim Mã, Ba Đình, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>34 Thành Công, Thành Công, Ba Đình, Hà Nội</address>
+        <description>34 Thành Công, Thành Công, Ba Đình, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Số 211 Lạc Long Quân, phường Nghĩa Đô, Cầu Giấy, Hà Nội</address>
+        <description>Số 211 Lạc Long Quân, phường Nghĩa Đô, Cầu Giấy, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Số 1 Ngõ 374 Âu Cơ, Nhật Tân, Tây Hồ, HN</address>
+        <description>Số 1 Ngõ 374 Âu Cơ, Nhật Tân, Tây Hồ, HN</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>109E3 Lê Thanh Nghị,Phường Bạch Mai</address>
+        <description>109E3 Lê Thanh Nghị,Phường Bạch Mai</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>16A Hòa Mã ,phường  phạm Đình Hổ</address>
+        <description>16A Hòa Mã ,phường  phạm Đình Hổ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>221 KIm Ngưu ,Phường Thanh Lương, Quận Hai Bà Trưng, Hà Nội</address>
+        <description>221 KIm Ngưu ,Phường Thanh Lương, Quận Hai Bà Trưng, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>53 Lãng Yên ,Phường Bạch Đằng</address>
+        <description>53 Lãng Yên ,Phường Bạch Đằng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>896 Minh Khai ,phường Thanh Lương</address>
+        <description>896 Minh Khai ,phường Thanh Lương</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>263 Phố Vọng, Phường Đông Tâm, Quận Hai Bà Trưng, Thành Phố Hà Nội</address>
+        <description>263 Phố Vọng, Phường Đông Tâm, Quận Hai Bà Trưng, Thành Phố Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>46 Hàng Cháo, Đống Đa, hà Nội</address>
+        <description>46 Hàng Cháo, Đống Đa, hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>14/14 huỳnh thúc kháng, đống đa, hà nội</address>
+        <description>14/14 huỳnh thúc kháng, đống đa, hà nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Số 09 Hoàng Cầu, Đống Đa, Hà Nội</address>
+        <description>Số 09 Hoàng Cầu, Đống Đa, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>23 Đặng Văn Ngữ, Đống Đa, HN</address>
+        <description>23 Đặng Văn Ngữ, Đống Đa, HN</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>140 Khâm Thiên, Phường Khâm Thiên, Quận Đống Đa, TP Hà Nội</address>
+        <description>140 Khâm Thiên, Phường Khâm Thiên, Quận Đống Đa, TP Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Số 36A, Ngõ 41 Đông Tác, Phường  Kim Liên, Quận Đống Đa, Hà Nội</address>
+        <description>Số 36A, Ngõ 41 Đông Tác, Phường  Kim Liên, Quận Đống Đa, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>114 Yên Lãng, Thịnh Quang, Đống Đa, Hà Nội</address>
+        <description>114 Yên Lãng, Thịnh Quang, Đống Đa, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>số 15, Ngõ 107 Nguyễn Chí Thanh, Đống Đa, Hà Nội</address>
+        <description>số 15, Ngõ 107 Nguyễn Chí Thanh, Đống Đa, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>303 Hoàng Hoa Thám, Liễu Giai, Ba Đình, Hà Nội</address>
+        <description>303 Hoàng Hoa Thám, Liễu Giai, Ba Đình, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>15 Hàng Bún, Nguyễn Trung Trực, Ba Đình, Hà Nội</address>
+        <description>15 Hàng Bún, Nguyễn Trung Trực, Ba Đình, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>482 Đội Cấn, Cống Vị, Ba Đình, Hà Nội</address>
+        <description>482 Đội Cấn, Cống Vị, Ba Đình, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Số 116A phạm Văn Đồng, p. Mai Dịch, Q. Cầu giấy, Hà Nội</address>
+        <description>Số 116A phạm Văn Đồng, p. Mai Dịch, Q. Cầu giấy, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Số 91 Nguyễn Khang, Yên Hòa, Cầu giấy, Hà Nội</address>
+        <description>Số 91 Nguyễn Khang, Yên Hòa, Cầu giấy, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Số 126 Hoàng Ngân, Trung Hòa, Cầu giấy, Hà Nội</address>
+        <description>Số 126 Hoàng Ngân, Trung Hòa, Cầu giấy, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Số 78 KHúc Thừa Dụ, Dịch Vọng, Cầu giấy, Hà Nội</address>
+        <description>Số 78 KHúc Thừa Dụ, Dịch Vọng, Cầu giấy, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Số 7C10 Nguyễn Phong Sắc - Cầu Giấy- Hà Nội</address>
+        <description>Số 7C10 Nguyễn Phong Sắc - Cầu Giấy- Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>số 6 Đường Bờ Sông Sét, Tân Mai, Hoàng Mai, Hà Nội</address>
+        <description>số 6 Đường Bờ Sông Sét, Tân Mai, Hoàng Mai, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>16 Tân Khai, P. Vĩnh Hưng, Q. Hoàng Mai, Hà Nội</address>
+        <description>16 Tân Khai, P. Vĩnh Hưng, Q. Hoàng Mai, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Số 5 Đường Văn Giang, TT Đại Nghĩa, Mỹ Đức, Hà Nội</address>
+        <description>Số 5 Đường Văn Giang, TT Đại Nghĩa, Mỹ Đức, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Xóm đoài, tiểu khu phú mỹ, thị trấn phú xuyên, phú xuyên, hà nội</address>
+        <description>Xóm đoài, tiểu khu phú mỹ, thị trấn phú xuyên, phú xuyên, hà nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description>56 Hồng Thái, Hoàng Xá, TT Vân Đình, Ứng Hòa, Hà Nội</description>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Số 51 Đường Tây Đằng-Thị Trấn Tây Đằng-Ba Vì-HN</address>
+        <description>Số 51 Đường Tây Đằng-Thị Trấn Tây Đằng-Ba Vì-HN</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description>Ngõ 14 Thôn 6 Xã Vân Nam-Phúc Thọ-HN</description>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Số 16 Đường Tiền Huân-Phường Viên Sơn-Thị Xã Sơn Tây-HN</address>
+        <description>Số 16 Đường Tiền Huân-Phường Viên Sơn-Thị Xã Sơn Tây-HN</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Thôn 6-Ba Trại-Ba Vì-HN</address>
+        <description>Thôn 6-Ba Trại-Ba Vì-HN</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Xã Thạch Thán, Huyện Quốc Oai, TP Hà Nội</address>
+        <description>Xã Thạch Thán, Huyện Quốc Oai, TP Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description>173 Đồng Cam, Thị Trấn Liên Quan, Thạch Thất, Hà Nội</description>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Thôn 2, Thạch Hòa, Thạch Thất, Hà Nội</address>
+        <description>Thôn 2, Thạch Hòa, Thạch Thất, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>8 Xóm Miếu Đinh Nguyên, Thọ An, Đan Phượng, TP Hà Nội</address>
+        <description>8 Xóm Miếu Đinh Nguyên, Thọ An, Đan Phượng, TP Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Khu đất đấu giá Thôn Nấm, Yên Sở, Hoài Đức, Hà Nội</address>
+        <description>Khu đất đấu giá Thôn Nấm, Yên Sở, Hoài Đức, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>245 phố đông,An Khánh, Hoài Đức,Hà Nội</address>
+        <description>245 phố đông,An Khánh, Hoài Đức,Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Xã Thanh Mai, Huyện Thanh Oai, TP Hà Nội</address>
+        <description>Xã Thanh Mai, Huyện Thanh Oai, TP Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Ngõ 1 Khu đất dịch vụ xã Văn Bình - Thường Tín - Hà Nội</address>
+        <description>Ngõ 1 Khu đất dịch vụ xã Văn Bình - Thường Tín - Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>36 phố cây xăng, xã Thắng Lợi, Thường Tín, HN</address>
+        <description>36 phố cây xăng, xã Thắng Lợi, Thường Tín, HN</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description>39 Gò Sỏi - Sóc Sơn -HN</description>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Đội 8 Thôn Vĩnh Trung,xã Đại Áng, Thanh Trì, HN</address>
+        <description>Đội 8 Thôn Vĩnh Trung,xã Đại Áng, Thanh Trì, HN</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>150 Cầu Bươu, Xã Tân Triều, Thanh Trì, HN</address>
+        <description>150 Cầu Bươu, Xã Tân Triều, Thanh Trì, HN</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>220 phan trọng tuệ, thanh trì ,hà nội</address>
+        <description>220 phan trọng tuệ, thanh trì ,hà nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Dược Thượng , Tiên Dược , Sóc Sơn , Hà Nội</address>
+        <description>Dược Thượng , Tiên Dược , Sóc Sơn , Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description>Khu 4, Nội Đồng, Đại Thịnh, Mê Linh, Hà Nội</description>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>phương trạch, vĩnh ngọc, đông anh, hà nội</address>
+        <description>phương trạch, vĩnh ngọc, đông anh, hà nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>174 cao  Lỗ , Xã Uy Nỗ , Huyện Đông Anh , Hà Nội</address>
+        <description>174 cao  Lỗ , Xã Uy Nỗ , Huyện Đông Anh , Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>số 9 Thiết Úng Vân Hà Đông Anh Hà Nội</address>
+        <description>số 9 Thiết Úng Vân Hà Đông Anh Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description>38 Bờ Kênh, Sáp Mai, Đông Anh, Hà Nội</description>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Xã Phụng Châu, Huyện Chương Mỹ, TP Hà Nội</address>
+        <description>Xã Phụng Châu, Huyện Chương Mỹ, TP Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Xã Tân Tiến, Huyện Chương Mỹ, TP Hà Nội</address>
+        <description>Xã Tân Tiến, Huyện Chương Mỹ, TP Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Dốc Đa Tốn-Xã Đa Tốn-Gia Lâm-HN</address>
+        <description>Dốc Đa Tốn-Xã Đa Tốn-Gia Lâm-HN</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>296 đường ỷ lan-Xã Đặng Xá-Gia Lâm-HN</address>
+        <description>296 đường ỷ lan-Xã Đặng Xá-Gia Lâm-HN</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Lô 31 Ha, khu đấu giá Trâu Qùy, Gia Lâm, Hà Nội</address>
+        <description>Lô 31 Ha, khu đấu giá Trâu Qùy, Gia Lâm, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Phường Đình Bảng, thị xã Từ Sơn, tỉnh Bắc Ninh</address>
+        <description>Phường Đình Bảng, thị xã Từ Sơn, tỉnh Bắc Ninh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>148 đường Trâu Quỳ-Gia Lâm-HN</address>
+        <description>148 đường Trâu Quỳ-Gia Lâm-HN</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Lk09  CT14 Bắc Hà, Trung Văn, Nam Từ Liêm Hà Nội</address>
+        <description>Lk09  CT14 Bắc Hà, Trung Văn, Nam Từ Liêm Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Số 97 Thiên hiền , Phường Mỹ Đình 1, Quận Nam Từ Liêm , Hà Nội</address>
+        <description>Số 97 Thiên hiền , Phường Mỹ Đình 1, Quận Nam Từ Liêm , Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description>349 Xuân Phương, Phường Xuân Phương, Quận Nam Từ Liêm, Thành phố Hà Nội</description>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description>Đường Liền Kề Đường Đua F1 Phú Đô, Phường Phú Đô, Quận Nam Từ Liêm, Thành phố Hà Nội</description>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description>Đường Liền Kề Đường Đua F1 Phú Đô, Phường Phú Đô, Quận Nam Từ Liêm, Thành phố Hà Nội</description>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>555 Nguyễn Văn Cừ, Phường gia thụy, Quận Long Biên, Hà Nội</address>
+        <description>555 Nguyễn Văn Cừ, Phường gia thụy, Quận Long Biên, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>607 Nguyễn Văn Linh, Phường Sài Đồng, Quận Long Biên, Hà Nội</address>
+        <description>607 Nguyễn Văn Linh, Phường Sài Đồng, Quận Long Biên, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Tổ 2 phường Long Biên – quận Long Biên – TP Hà Nội</address>
+        <description>Tổ 2 phường Long Biên – quận Long Biên – TP Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Tổ 7, khu tái định cư, Phường Giang Biên, Quận Long Biên, Hà Nội</address>
+        <description>Tổ 7, khu tái định cư, Phường Giang Biên, Quận Long Biên, Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>19 Ngõ 196 Phú Diễn-Q. Bắc Từ Liêm-HN</address>
+        <description>19 Ngõ 196 Phú Diễn-Q. Bắc Từ Liêm-HN</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>124 Phan Bá Vành-Q.Bắc Từ Liêm-HN</address>
+        <description>124 Phan Bá Vành-Q.Bắc Từ Liêm-HN</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>253 Phạm Văn Đồng-Q.Bắc Từ Liêm-Hà Nội</address>
+        <description>253 Phạm Văn Đồng-Q.Bắc Từ Liêm-Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>83 Đường số 23 Khu Đô thị Thành phố Giao Lưu, Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Thành phố Hà Nội</address>
+        <description>83 Đường số 23 Khu Đô thị Thành phố Giao Lưu, Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Thành phố Hà Nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description>Số 24 ngõ 80 la nội - Phường Dương Nội - Hà Đông - Hà Nội</description>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description>A6 - TT19 Khu Đô Thị Văn Quán - Phường Văn Quán - Q.Hà Đông-HN</description>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>B17 Bồ hỏa, Phường Hà Cầu, Hà Đông hà nội</address>
+        <description>B17 Bồ hỏa, Phường Hà Cầu, Hà Đông hà nội</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description>số 1174 Tổ 4 Thôn Do Lộ, Phường Yên Nghĩa, Quận Hà Đông, Thành phố Hà Nội</description>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <address>Số 551 Quang Trung - Phường Phú La -  Q.Hà Đông-HN</address>
+        <description>Số 551 Quang Trung - Phường Phú La -  Q.Hà Đông-HN</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục An Lão-Hải Phòng</name>
+        <address>277 hoàng quốc việt, Ngọc Sơn, Kiến An, Hải Phòng</address>
+        <description>277 hoàng quốc việt, Ngọc Sơn, Kiến An, Hải Phòng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục An Dương-Hải Phòng</name>
+        <address>Đường Máng Nước thôn Vĩnh Khê , Xã An Đồng , Huyện An Dương , Hải Phòng</address>
+        <description>Đường Máng Nước thôn Vĩnh Khê , Xã An Đồng , Huyện An Dương , Hải Phòng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục An Dương 2-Hải Phòng</name>
+        <address>thôn hoàng lâu, xã hồng phong, huyện an dương ,tỉnh hải phòng</address>
+        <description>thôn hoàng lâu, xã hồng phong, huyện an dương ,tỉnh hải phòng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Thuận Thành-Bắc Ninh</name>
+        <address>Thanh Khương Thuận Thành Bắc Ninh</address>
+        <description>Thanh Khương Thuận Thành Bắc Ninh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Lương Tài-Bắc Ninh</name>
+        <address>thị trấn thứa, lương tài bắc ninh</address>
+        <description>thị trấn thứa, lương tài bắc ninh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục TP.Bắc Ninh</name>
+        <address>Xuân Ổ A,Võ Cường,Tp Bắc Ninh</address>
+        <description>Xuân Ổ A,Võ Cường,Tp Bắc Ninh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Quế Võ-Bắc Ninh</name>
+        <description>Thửa đất số 17, tờ bản đồ số 19, Thôn Mao Trung, Xã Phượng Mao, Huyện Quế Võ, tinh Bắc Ninh</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Quế Võ 2-Bắc Ninh</name>
+        <address>Thôn Thành Dền,xã Đào Viên,Huyện Quế Võ,Bắc Ninh</address>
+        <description>Thôn Thành Dền,xã Đào Viên,Huyện Quế Võ,Bắc Ninh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 353 Ngô Gia Tự-TP.Bắc Ninh</name>
+        <address>353 Ngô Gia Tự,Tiền An,TP Bắc Ninh,Bắc Ninh</address>
+        <description>353 Ngô Gia Tự,Tiền An,TP Bắc Ninh,Bắc Ninh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tiên Du-Bắc Ninh</name>
+        <address>Làn 2 bãi gié đình cả,tiên du,bắc ninh (Thôn đình Cả, xã Nội Duệ)</address>
+        <description>Làn 2 bãi gié đình cả,tiên du,bắc ninh (Thôn đình Cả, xã Nội Duệ)</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Từ Sơn-Bắc Ninh</name>
+        <description>Lô 2, Khu đất mới Tam Lư, Xã Đồng Nguyên, Huyện Từ Sơn, Tỉnh Bắc Ninh</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Yên Phong-Bắc Ninh</name>
+        <address>Khu Đồng Riệc, Thôn Phú Mẫn, Thị trấn Chờ, Huyện Yên Phong, Tỉnh Bắc Ninh</address>
+        <description>Khu Đồng Riệc, Thôn Phú Mẫn, Thị trấn Chờ, Huyện Yên Phong, Tỉnh Bắc Ninh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 14 Trần Phú-Từ Sơn-Bắc Ninh</name>
+        <address>14 Trần Phú phường Đông Ngàn thị xã Từ Sơn tỉnh Bắc Ninh</address>
+        <description>14 Trần Phú phường Đông Ngàn thị xã Từ Sơn tỉnh Bắc Ninh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 84.04 Thanh Bình-TP.Hải Dương</name>
+        <address>Lô 84.04 Thanh Bình, phường Thanh Bình, tp Hải Dương</address>
+        <description>Lô 84.04 Thanh Bình, phường Thanh Bình, tp Hải Dương</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Chí Linh-Hải Dương</name>
+        <address>số 182 Nguyễn Trãi 2 , Sao Đỏ , Chí Linh , Hải Dương</address>
+        <description>số 182 Nguyễn Trãi 2 , Sao Đỏ , Chí Linh , Hải Dương</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Kinh Môn-Hải Dương</name>
+        <address>thôn Thượng Xá, Thượng Quận, Kinh Môn, Hải Dương</address>
+        <description>thôn Thượng Xá, Thượng Quận, Kinh Môn, Hải Dương</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tứ Kỳ-Hải Dương</name>
+        <address>Thôn Quàn, Xã Minh Đức, Huyện Tứ Kỳ, Tỉnh Hải Dương</address>
+        <description>Thôn Quàn, Xã Minh Đức, Huyện Tứ Kỳ, Tỉnh Hải Dương</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Thanh Hà-Hải Dương</name>
+        <address>Đội 10 , Thanh Sơn , Thanh hà , Hải Dương</address>
+        <description>Đội 10 , Thanh Sơn , Thanh hà , Hải Dương</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Kim Thành-Hải Dương</name>
+        <address>86 Thống Nhất, Phú Thái, Kim Thành , Hải Dương</address>
+        <description>86 Thống Nhất, Phú Thái, Kim Thành , Hải Dương</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Bình Giang-Hải Dương</name>
+        <address>trung tâm xã vĩnh Hồng , Bình Giang, Hải Dương</address>
+        <description>trung tâm xã vĩnh Hồng , Bình Giang, Hải Dương</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Cẩm Giàng-Hải Dương</name>
+        <address>xã Cẩm Vũ, Cẩm Giàng, Hải Dương</address>
+        <description>xã Cẩm Vũ, Cẩm Giàng, Hải Dương</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Thanh Miện_Hải Dương</name>
+        <address>xã Lam Sơn, Thanh Mện, Hải Dương</address>
+        <description>xã Lam Sơn, Thanh Mện, Hải Dương</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 148 Nguyễn Đăng Lành-Nam Sách-Hải Dương</name>
+        <address>148 Nguyễn Đăng Lành Thị Trấn Nam Sách , Hải Dương</address>
+        <description>148 Nguyễn Đăng Lành Thị Trấn Nam Sách , Hải Dương</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tiên Lãng-Hải Phòng</name>
+        <address>xã Bạch Đằng, Huyện Tiên Lãng, Hải Phòng</address>
+        <description>xã Bạch Đằng, Huyện Tiên Lãng, Hải Phòng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Kiến Thụy-Hải Phòng</name>
+        <address>Thôn Đương Thắng, xã Ngũ Đoan, Huyện Kiến Thụy, Hải Phòng</address>
+        <description>Thôn Đương Thắng, xã Ngũ Đoan, Huyện Kiến Thụy, Hải Phòng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Thủy Nguyên-Hải Phòng</name>
+        <address>xóm Mánh, xã Thủy Đường, Huyện Thủy Nguyên, Hải Phòng</address>
+        <description>xóm Mánh, xã Thủy Đường, Huyện Thủy Nguyên, Hải Phòng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục KCN Vĩnh Niệm-Q.Lê Chân-Hải Phòng</name>
+        <address>Tổ 8 Cụm công nghiệp VĨnh Niệm, quận Lê Chân, Hải Phòng</address>
+        <description>Tổ 8 Cụm công nghiệp VĨnh Niệm, quận Lê Chân, Hải Phòng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 29 Nguyễn Trãi-Q.Ngô Quyền-Hải Phòng</name>
+        <address>29 Nguyễn Trãi, Phường Máy Tơ, Quận Ngô Quyền, Hải Phòng</address>
+        <description>29 Nguyễn Trãi, Phường Máy Tơ, Quận Ngô Quyền, Hải Phòng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 793 Trần Nhân Tông-Q.Kiến An-Hải Phòng</name>
+        <address>793 Trần Nhân Tông, phường Nam Sơn, Quận Kiến An, Hải Phòng</address>
+        <description>793 Trần Nhân Tông, phường Nam Sơn, Quận Kiến An, Hải Phòng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 933 Tôn Đức Thắng-Q.Hồng Bàng-Hải Phòng</name>
+        <address>933 Tôn Đức Thắng, Phường Sở Dầu, Quận Hồng Bàng, Hải Phòng</address>
+        <description>933 Tôn Đức Thắng, Phường Sở Dầu, Quận Hồng Bàng, Hải Phòng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 972 Phạm Văn Đồng- Q.Dương Kinh-Hải Phòng</name>
+        <address>972 Phạm Văn Đồng, Phường Hòa Nghĩa, Quận Dương Kinh, Hải Phòng</address>
+        <description>972 Phạm Văn Đồng, Phường Hòa Nghĩa, Quận Dương Kinh, Hải Phòng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Xóm 6-Thủy Nguyên-Hải Phòng</name>
+        <address>xóm Mánh, xã Thủy Đường, Huyện Thủy Nguyên, Hải Phòng</address>
+        <description>xóm Mánh, xã Thủy Đường, Huyện Thủy Nguyên, Hải Phòng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đảo Cát Hải-Hải Phòng</name>
+        <address>1056 Nguyễn Bỉnh Khiêm, Phường Đằng Hải, Quận Hải An, Hải Phòng</address>
+        <description>1056 Nguyễn Bỉnh Khiêm, Phường Đằng Hải, Quận Hải An, Hải Phòng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 1056 Nguyễn Bỉnh Khiêm-Q.Hải An-Hải Phòng</name>
+        <address>1056 Nguyễn Bỉnh Khiêm, Phường Đằng Hải, Quận Hải An, Hải Phòng</address>
+        <description>1056 Nguyễn Bỉnh Khiêm, Phường Đằng Hải, Quận Hải An, Hải Phòng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Mỹ Hào-Hưng Yên</name>
+        <address>Đường Nguyễn Thiện Thuật, Thị trấn Bần Yên Nhân ,Mỹ Hào, Hưng Yên</address>
+        <description>Đường Nguyễn Thiện Thuật, Thị trấn Bần Yên Nhân ,Mỹ Hào, Hưng Yên</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Văn Lâm-Hưng Yên</name>
+        <address>Thị Trấn Như Quỳnh , Văn Lâm , Hưng Yên</address>
+        <description>Thị Trấn Như Quỳnh , Văn Lâm , Hưng Yên</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Yên Mỹ-Hưng Yên</name>
+        <description>Số 206 Giai Phạm , Yên Mỹ , Hưng Yên ( Đối diện sân bóng Giai Phạm)</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Văn Giang-Hưng Yên</name>
+        <address>Ngọc Bộ, Long Hưng , Tân Tiến ,Văn Giang , Hưng Yên</address>
+        <description>Ngọc Bộ, Long Hưng , Tân Tiến ,Văn Giang , Hưng Yên</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Khoái Châu-Hưng Yên</name>
+        <address>Khu hạ tầng xã An Vĩ, huyện Khoái Châu, Hưng Yên</address>
+        <description>Khu hạ tầng xã An Vĩ, huyện Khoái Châu, Hưng Yên</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 11 Chu Mạnh Trinh-TP.Hưng Yên</name>
+        <address>Số 11 Chu Mạnh Trinh, phường Hiến Nam, TP Hưng Yên, tỉnh Hưng Yên</address>
+        <description>Số 11 Chu Mạnh Trinh, phường Hiến Nam, TP Hưng Yên, tỉnh Hưng Yên</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tiên Yên-Quảng Ninh</name>
+        <description>Sn 98 Xóm Nương, xã Tiên Lãng, Huyện Tiên Yên, Quảng Ninh</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đảo Vân Đồn-Quảng Ninh</name>
+        <address>Thôn 14 xã Hạ Long, huyện Vân Đồn, tỉnh Quảng Ninh</address>
+        <description>Thôn 14 xã Hạ Long, huyện Vân Đồn, tỉnh Quảng Ninh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục Cửa Ông-Cẩm Phả-Quảng Ninh</name>
+        <address>Phường Trần Phú-Thành Phố Móng Cái-Tỉnh Quảng Ninh</address>
+        <description>Phường Trần Phú-Thành Phố Móng Cái-Tỉnh Quảng Ninh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục Cẩm Thành-Cẩm Phả-Quảng Ninh 01</name>
+        <description>Sn 98 Xóm Nương, xã Tiên Lãng, Huyện Tiên Yên, Quảng Ninh</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 29 Ngô Gia Tự-Móng Cái-Quảng Ninh 01</name>
+        <address>Thôn 14 xã Hạ Long, huyện Vân Đồn, tỉnh Quảng Ninh</address>
+        <description>Thôn 14 xã Hạ Long, huyện Vân Đồn, tỉnh Quảng Ninh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Hạ Long-Quảng Ninh</name>
+        <address>Ô số 21 Lô A9 KĐT mới Cao Xanh, Hà Khánh, Hạ Long, Quảng Ninh</address>
+        <description>Ô số 21 Lô A9 KĐT mới Cao Xanh, Hà Khánh, Hạ Long, Quảng Ninh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đông Triều-Quảng Ninh</name>
+        <address>Số 8B Tổ 1 khu Vĩnh Thông Mạo Khê, Đông Triều, Quảng Ninh</address>
+        <description>Số 8B Tổ 1 khu Vĩnh Thông Mạo Khê, Đông Triều, Quảng Ninh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 90 Trần Phú-Uông Bí-Quảng Ninh</name>
+        <address>90 trần phú Quang trung UB Quảng Ninh</address>
+        <description>90 trần phú Quang trung UB Quảng Ninh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 4B Hùng Thắng-Hạ Long-Quảng Ninh</name>
+        <description>Tổ 16 khu 4B phường Hùng Thắng, Hạ Long, Quảng Ninh</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 209 Nguyễn Trãi-Hạ Long-Quảng Ninh</name>
+        <description>SN 209 tổ 1 khu 3 thị trấn trới, Hoành Bồ, Quảng Ninh</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 12 Trần Nhân Tông-Uông Bí-Quảng Ninh</name>
+        <address>12 Trần Nhân Tông thành phố Uông Bí tỉnh Quảng Ninh</address>
+        <description>12 Trần Nhân Tông thành phố Uông Bí tỉnh Quảng Ninh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 599 Nguyễn Văn Cừ-Hạ Long-Quảng Ninh</name>
+        <address>599 Nguyễn Văn Cừ, Hồng Hải, Hạ Long, Quảng Ninh</address>
+        <description>599 Nguyễn Văn Cừ, Hồng Hải, Hạ Long, Quảng Ninh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 130 Trần Nhân Tông-Quảng Yên-Quảng Ninh</name>
+        <address>203 trần nhân tông, khu 10 phường quảng yên, tx quảng yên, quảng ninh</address>
+        <description>203 trần nhân tông, khu 10 phường quảng yên, tx quảng yên, quảng ninh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đông Hưng-Thái Bình</name>
+        <address>cụm công nghiệp xã ĐÔng La , thị trấn Đông Hưng, tỉnh Thái Bình</address>
+        <description>cụm công nghiệp xã ĐÔng La , thị trấn Đông Hưng, tỉnh Thái Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Thái Thụy-Thái Bình</name>
+        <address>xã Thụy Sơn, huyện Thái Thụy, tỉnh Thái Bình</address>
+        <description>xã Thụy Sơn, huyện Thái Thụy, tỉnh Thái Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 02 Lý Thái Tổ-TP.Thái Bình</name>
+        <address>Vũ Trường, Vũ Chính, thành phố Thái Bình, tỉnh Thái Bình</address>
+        <description>Vũ Trường, Vũ Chính, thành phố Thái Bình, tỉnh Thái Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 369 Trần Thái Tông-TP.Thái Bình</name>
+        <address>369 trần thái tông, phường trần hưng đạo, thành phố Thái Bình</address>
+        <description>369 trần thái tông, phường trần hưng đạo, thành phố Thái Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 201 Nguyễn Du-Quỳnh Phụ-Thái Bình</name>
+        <address>thị trấn AN Bài, huyện Quỳnh Phụ , Thái Bình</address>
+        <description>thị trấn AN Bài, huyện Quỳnh Phụ , Thái Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 126 Nguyễn Công Trứ-Tiền Hải-Thái Bình</name>
+        <address>126 Nguyễn Công Trứ, khu 4, thị trấn Tiền Hải, huyện Tiền Hải, tỉnh Thái Bình</address>
+        <description>126 Nguyễn Công Trứ, khu 4, thị trấn Tiền Hải, huyện Tiền Hải, tỉnh Thái Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Hòa Vang-Đà Nẵng</name>
+        <description>Khu A1-A2 KDC Hòa Nhơn, Hòa Nhơn, Hòa Vang,Đà Nẵng</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 254-256 Âu Cơ-Q.Liên Chiểu-Đà Nẵng</name>
+        <address>254-256 Âu Cơ,Liên Chiểu, Đà Nẵng</address>
+        <description>254-256 Âu Cơ,Liên Chiểu, Đà Nẵng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 77 Nguyễn Phước Thái-Q.Thanh Khê-Đà Nẵng</name>
+        <address>77 Nguyễn Phước Thái, Thanh Khê, Đà Nẵng</address>
+        <description>77 Nguyễn Phước Thái, Thanh Khê, Đà Nẵng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 24 Âu Cơ-Đông Hà-Quảng Trị</name>
+        <description>24 Âu Cơ,Phường 5,TP Đông Hà,Tỉnh Quảng Trị</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 60 Hùng Vương-Hải Lăng-Quảng Trị</name>
+        <address>60 Hùng Vương,Thị Trấn Diên Sanh,Huyện Hải Lăng,Tỉnh Quảng trị</address>
+        <description>60 Hùng Vương,Thị Trấn Diên Sanh,Huyện Hải Lăng,Tỉnh Quảng trị</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 279 Lê Duẩn-Hướng Hóa-Quảng Trị</name>
+        <address>279 Lê Duẫn,Thị Trấn Khe Sanh,Huyện Hướng Hóa,Tỉnh Quảng Trị</address>
+        <description>279 Lê Duẫn,Thị Trấn Khe Sanh,Huyện Hướng Hóa,Tỉnh Quảng Trị</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 183 Trần Phú-Vĩnh Linh-Quảng Trị</name>
+        <address>183 Trần Phú,Thị Trấn Hồ Xá,Huyện Vĩnh Linh,Tỉnh Quảng Trị</address>
+        <description>183 Trần Phú,Thị Trấn Hồ Xá,Huyện Vĩnh Linh,Tỉnh Quảng Trị</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 288 Núi Thành-Q.Hải Châu-Đà Nẵng</name>
+        <address>288 Núi Thành, phường Hòa Cường Bắc, quận Hải Châu, Đà Nẵng</address>
+        <description>288 Núi Thành, phường Hòa Cường Bắc, quận Hải Châu, Đà Nẵng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 21 Đặng Văn Ngữ-Q.Cẩm Lệ-Đà Nẵng</name>
+        <address>21 Đặng Văn Ngữ, phường Khuê Trung, quận Cẩm Lệ, Đà Nẵng</address>
+        <description>21 Đặng Văn Ngữ, phường Khuê Trung, quận Cẩm Lệ, Đà Nẵng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 18 An Dương Vương-Q.Ngũ Hành Sơn-Đà Nẵng</name>
+        <address>18 An Dương Vương, phường Mỹ An, quận Ngũ Hành Sơn, Đà Nẵng</address>
+        <description>18 An Dương Vương, phường Mỹ An, quận Ngũ Hành Sơn, Đà Nẵng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 70 Đỗ Anh Hàn-Q.Sơn Trà-Đà Nẵng</name>
+        <address>70 Đỗ Anh Hàn, phường An Hải Bắc, quận Sơn Trà, Đà Nẵng</address>
+        <description>70 Đỗ Anh Hàn, phường An Hải Bắc, quận Sơn Trà, Đà Nẵng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 340 Nguyễn Công Phương-TP.Quảng Ngãi</name>
+        <address>340 Nguyễn Công Phương, phường Nghĩa Lộ, TP Quảng Ngãi</address>
+        <description>340 Nguyễn Công Phương, phường Nghĩa Lộ, TP Quảng Ngãi</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Bình Sơn-Quảng Ngãi</name>
+        <address>KDC Đông Nam, TT Châu Ổ, huyện Bình Sơn, Tỉnh Quảng Ngãi</address>
+        <description>KDC Đông Nam, TT Châu Ổ, huyện Bình Sơn, Tỉnh Quảng Ngãi</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Mộ Đức-Quảng Ngãi</name>
+        <address>Thạch Trụ, Đức Lân, Mộ Đức, QUảng Ngãi</address>
+        <description>Thạch Trụ, Đức Lân, Mộ Đức, QUảng Ngãi</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Sơn Tịnh-Quảng Ngãi</name>
+        <address>366/2 Võ Nguyên Giáp, Trương Quang Trọng, TP.Quảng Ngãi</address>
+        <description>366/2 Võ Nguyên Giáp, Trương Quang Trọng, TP.Quảng Ngãi</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đảo Lý Sơn-Quảng Ngãi</name>
+        <address>Thôn Đông, An Vĩnh, Lý Sơn, Quảng Ngãi</address>
+        <description>Thôn Đông, An Vĩnh, Lý Sơn, Quảng Ngãi</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Sơn Hà-Quảng Ngãi</name>
+        <address>340 Nguyễn Công Phương, phường Nghĩa Lộ, TP Quảng Ngãi</address>
+        <description>340 Nguyễn Công Phương, phường Nghĩa Lộ, TP Quảng Ngãi</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Ba Tơ-Quảng Ngãi</name>
+        <address>Thạch Trụ, Đức Lân, Mộ Đức, QUảng Ngãi</address>
+        <description>Thạch Trụ, Đức Lân, Mộ Đức, QUảng Ngãi</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục Lệ Thủy-Quảng Bình</name>
+        <address>Mai Thủy, Lệ Thủy, Quảng Bình</address>
+        <description>Mai Thủy, Lệ Thủy, Quảng Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 01 Tây Sơn-Đồng Hới-Quảng Bình</name>
+        <address>01 Tây Sơn, Nam Lý, Đồng Hới, Quảng Bình</address>
+        <description>01 Tây Sơn, Nam Lý, Đồng Hới, Quảng Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục Bố Trạch-Quảng Bình</name>
+        <address>Phúc Tự Đông, Đại Trạch, Bố Trạch, Quảng Bình</address>
+        <description>Phúc Tự Đông, Đại Trạch, Bố Trạch, Quảng Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 79 Lê Lợi-Ba Đồn-Quảng Bình</name>
+        <address>79 Lê Lợi, Ba Đồn, Quảng Bình</address>
+        <description>79 Lê Lợi, Ba Đồn, Quảng Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục Minh Hóa-Quảng Bình</name>
+        <address>Quy Đạt, Minh Hóa, Quảng Bình</address>
+        <description>Quy Đạt, Minh Hóa, Quảng Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 74 Nguyễn Tất Thành-Hương Thủy-Huế</name>
+        <address>74 Nguyễn Tất Thành ,Phường Thủy Dương,Thị Xã Hương Thủy ,Tỉnh Thừa Thiên Huế</address>
+        <description>74 Nguyễn Tất Thành ,Phường Thủy Dương,Thị Xã Hương Thủy ,Tỉnh Thừa Thiên Huế</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 290 Lý Thánh Tông-Phú Lộc-Huế</name>
+        <address>290 Lý Thánh Tông ,Thị Trấn Phú Lộc,Huyện Phú Lộc,Tỉnh Thừa Thiên Huế</address>
+        <description>290 Lý Thánh Tông ,Thị Trấn Phú Lộc,Huyện Phú Lộc,Tỉnh Thừa Thiên Huế</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục A Lưới-Huế</name>
+        <address>Thôn Quảng Hợp ,Xã Sơn Thủy,Huyện A Lưới ,Tỉnh Thừa Thiên Huế</address>
+        <description>Thôn Quảng Hợp ,Xã Sơn Thủy,Huyện A Lưới ,Tỉnh Thừa Thiên Huế</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 77 Thái Dương-Phú Vang-Huế</name>
+        <address>77 Thái Dương, Thị Trấn Thuận An,Huyện Phú Vang,Tỉnh Thừa Thiên Huế</address>
+        <description>77 Thái Dương, Thị Trấn Thuận An,Huyện Phú Vang,Tỉnh Thừa Thiên Huế</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Phong Điền-Huế</name>
+        <description>Thôn Thượng An 2,Xã Phong An ,Huyện Phong Điền,Tỉnh Thừa Thiên Huế</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 02 Tuệ Tĩnh - P Quang Trung - KonTum</name>
+        <description>02 Tuệ Tĩnh - P Quang Trung - TP KonTum</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Ngọc Hồi - KonTum</name>
+        <description>02 Tuệ Tĩnh - P Quang Trung - TP KonTum</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Kon PLong- KonTum</name>
+        <description>02 Tuệ Tĩnh - P Quang Trung - TP KonTum</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 706 Phan Châu Trinh-Tam Kỳ-Quảng Nam</name>
+        <address>706 Phan Châu Trinh, phường An Sơn, Tam Kỳ, Quảng Nam</address>
+        <description>706 Phan Châu Trinh, phường An Sơn, Tam Kỳ, Quảng Nam</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 08 Phan Bá Phiến-Hội An-Quảng Nam</name>
+        <address>08 Phan Bá Phiến, phường Tân An, Hội An, QUảng Nam</address>
+        <description>08 Phan Bá Phiến, phường Tân An, Hội An, QUảng Nam</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 274 Điện Biên Phủ-Duy Xuyên-Quảng Nam</name>
+        <address>274 Điện Biên Phủ, thị trấn Nam Phước, Huyện Duy Xuyên, Quảng Nam</address>
+        <description>274 Điện Biên Phủ, thị trấn Nam Phước, Huyện Duy Xuyên, Quảng Nam</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Thăng Bình-Quảng Nam</name>
+        <address>QL1A tổ 14, thị trấn Hà Lam, huyện Thăng Bình, Quảng Nam</address>
+        <description>QL1A tổ 14, thị trấn Hà Lam, huyện Thăng Bình, Quảng Nam</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Điện Bàn-Quảng Nam</name>
+        <address>Thanh Quýt 4, Điện Thắng Trung, Điện Bàn, Quảng Nam</address>
+        <description>Thanh Quýt 4, Điện Thắng Trung, Điện Bàn, Quảng Nam</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 162 Huỳnh Thúc Kháng-Đại Lộc-Quảng Nam</name>
+        <address>162 Huỳnh Thúc Kháng, huyện Đại Lộc, Quảng Nam</address>
+        <description>162 Huỳnh Thúc Kháng, huyện Đại Lộc, Quảng Nam</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 52 Phạm Văn Đồng-Núi Thành-Quảng Nam</name>
+        <address>52 Phạm Văn Đồng, huyện Núi Thành , Quảng Nam</address>
+        <description>52 Phạm Văn Đồng, huyện Núi Thành , Quảng Nam</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Quảng Hưng-TP.Thanh Hóa</name>
+        <address>Đại Lộ CSEDP, Phố 1, Phường Quảng Hưng, TP Thanh Hoá</address>
+        <description>Đại Lộ CSEDP, Phố 1, Phường Quảng Hưng, TP Thanh Hoá</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Quan Hóa-Thanh Hóa</name>
+        <address>Khu 4 - TT Quan Hóa - Huyện Quan Hóa - Thanh Hóa.</address>
+        <description>Khu 4 - TT Quan Hóa - Huyện Quan Hóa - Thanh Hóa.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đại Lộ CSEDP-TP.Thanh Hóa</name>
+        <address>Đại Lộ CSEDP, Phố 1, Phường Quảng Hưng, TP Thanh Hoá</address>
+        <description>Đại Lộ CSEDP, Phố 1, Phường Quảng Hưng, TP Thanh Hoá</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Triệu Sơn-Thanh Hóa</name>
+        <address>Thôn Thị Tứ, xã Dân Lực, huyện Triệu Sơn</address>
+        <description>Thôn Thị Tứ, xã Dân Lực, huyện Triệu Sơn</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>KV3 Bưu cục 284 Tống Duy Tân - Thanh Hoá</name>
+        <address>284 Tống Duy Tân thành phố Thanh Hóa tỉnh Thanh Hóa</address>
+        <description>284 Tống Duy Tân thành phố Thanh Hóa tỉnh Thanh Hóa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Bình Lục-Hà Nam</name>
+        <address>xã La Sơn, Bình Lục, Hà Nam</address>
+        <description>xã La Sơn, Bình Lục, Hà Nam</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Duy Tiên-Hà Nam</name>
+        <address>thôn Nhất , xã Bạch Thượng, huyện Duy Tiên, tỉnh Hà Nam</address>
+        <description>thôn Nhất , xã Bạch Thượng, huyện Duy Tiên, tỉnh Hà Nam</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 101B Lý Thái Tổ-Phủ Lý-Hà Nam</name>
+        <address>101B lý thái tổ, phường Lê Hồng Phong, thành phố Phủ Lý, Hà Nam</address>
+        <description>101B lý thái tổ, phường Lê Hồng Phong, thành phố Phủ Lý, Hà Nam</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Thanh Liêm-Hà Nam</name>
+        <address>thôn Ứng Liêm, xã Thanh Hà , huyện Thanh Liêm tỉnh Hà Nam</address>
+        <description>thôn Ứng Liêm, xã Thanh Hà , huyện Thanh Liêm tỉnh Hà Nam</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 84A Châu Cầu-Phủ Lý-Hà Nam</name>
+        <address>84a châu cầu phường Minh khai thành phố Phủ Lý tinh hà nam</address>
+        <description>84a châu cầu phường Minh khai thành phố Phủ Lý tinh hà nam</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Yên Thành-Nghệ An</name>
+        <address>Khối 2, TT Yên Thành, Yên Thành, Nghệ An</address>
+        <description>Khối 2, TT Yên Thành, Yên Thành, Nghệ An</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 1A Tản Đà-Vinh-Nghệ An</name>
+        <address>Số 1A Tản Đà, P.Quán Bàu, TP Vinh, Nghệ An</address>
+        <description>Số 1A Tản Đà, P.Quán Bàu, TP Vinh, Nghệ An</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 1/9 Phan Bội Châu-Vinh-Nghệ An</name>
+        <address>Số 1A Tản Đà, P.Quán Bàu, TP Vinh, Nghệ An</address>
+        <description>Số 1A Tản Đà, P.Quán Bàu, TP Vinh, Nghệ An</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đô Lương-Nghệ An</name>
+        <address>Xóm 12 - Tràng Sơn - Đô Lương - Nghệ An</address>
+        <description>Xóm 12 - Tràng Sơn - Đô Lương - Nghệ An</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Quỳnh Lưu-Nghệ An</name>
+        <address>Xóm 9 - Quỳnh Thạch - Quỳnh Lưu - Nghệ An (gần cây xăng Quỳnh Thạch)</address>
+        <description>Xóm 9 - Quỳnh Thạch - Quỳnh Lưu - Nghệ An (gần cây xăng Quỳnh Thạch)</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Nghĩa Đàn-Nghệ An</name>
+        <description>Xóm Tháp, Nghĩa Liên, Nghĩa Đàn (Gần cây xăng Khánh Nga)</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Diễn Châu-Nghệ An</name>
+        <address>Thôn 7, QL1A, xã Diễn Kỷ, Huyện Diễn Châu, Nghệ An</address>
+        <description>Thôn 7, QL1A, xã Diễn Kỷ, Huyện Diễn Châu, Nghệ An</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Anh Sơn-Nghệ An</name>
+        <address>Khối 6A, TT Anh Sơn, Anh Sơn, Nghệ An</address>
+        <description>Khối 6A, TT Anh Sơn, Anh Sơn, Nghệ An</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 190 Nguyễn Sỹ Sách-TP.Vinh-Nghệ An</name>
+        <address>190 Nguyễn Sỹ Sách, Khối Trung Đông, Phường Hưng Dũng, TP Vinh, Nghệ An</address>
+        <description>190 Nguyễn Sỹ Sách, Khối Trung Đông, Phường Hưng Dũng, TP Vinh, Nghệ An</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tân Kỳ-Nghệ An</name>
+        <address>Xóm Tiến Thành, Xã Nghĩa Hoàn, Huyện Tân Kỳ, Nghệ An</address>
+        <description>Xóm Tiến Thành, Xã Nghĩa Hoàn, Huyện Tân Kỳ, Nghệ An</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Hải Hậu-Nam Định</name>
+        <address>Thị trấn Yên Định, huyện Hải Hậu, tỉnh Nam Định</address>
+        <description>Thị trấn Yên Định, huyện Hải Hậu, tỉnh Nam Định</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 693 Điện Biên-TP.Nam Định 01</name>
+        <address>Số nhà 693 đường Điện Biên, xã Lộc Hòa, thành phố Nam Định, tỉnh Nam Định</address>
+        <description>Số nhà 693 đường Điện Biên, xã Lộc Hòa, thành phố Nam Định, tỉnh Nam Định</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Nam Trực-Nam Định</name>
+        <address>Xã Nam Hùng, huyện Nam Trực, tỉnh Nam ĐỊnh</address>
+        <description>Xã Nam Hùng, huyện Nam Trực, tỉnh Nam ĐỊnh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Nghĩa Hưng-Nam Định</name>
+        <address>TT Liễu Đề, huyện Nghĩa Hưng, tỉnh Nam ĐỊnh</address>
+        <description>TT Liễu Đề, huyện Nghĩa Hưng, tỉnh Nam ĐỊnh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Trực Ninh-Nam Định</name>
+        <address>Xã Trực Nội, huyện Trực Ninh, tỉnh Nam Định</address>
+        <description>Xã Trực Nội, huyện Trực Ninh, tỉnh Nam Định</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Vụ Bản-Nam Định</name>
+        <address>Thị trấn Gôi, huyện Vụ Bản, tỉnh Nam Định</address>
+        <description>Thị trấn Gôi, huyện Vụ Bản, tỉnh Nam Định</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Ý Yên-Nam Định</name>
+        <address>Thị Trấn Lâm,Huyện Ý Yên,Tỉnh Nam Định</address>
+        <description>Thị Trấn Lâm,Huyện Ý Yên,Tỉnh Nam Định</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Giao Thủy-Nam Định</name>
+        <address>Giao Thủy-Nam Định</address>
+        <description>Giao Thủy-Nam Định</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Xuân Trường-Nam Định</name>
+        <address>Thị Trấn Xuân Trường</address>
+        <description>Thị Trấn Xuân Trường</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 693 Điện Biên-TP.Nam Định 02</name>
+        <address>Số nhà 693 đường Điện Biên, xã Lộc Hòa, thành phố Nam Định, tỉnh Nam Định</address>
+        <description>Số nhà 693 đường Điện Biên, xã Lộc Hòa, thành phố Nam Định, tỉnh Nam Định</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Nho Quan-Ninh Bình</name>
+        <address>Xã Văn Phú, huyện Nho Quan, tỉnh Ninh Bình</address>
+        <description>Xã Văn Phú, huyện Nho Quan, tỉnh Ninh Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 111 Xuân Thành-Ninh Bình-Ninh Bình 01</name>
+        <address>SN 111 đường Xuân Thành, phường Tân Thành, thành phố Ninh Bình, Ninh Bình</address>
+        <description>SN 111 đường Xuân Thành, phường Tân Thành, thành phố Ninh Bình, Ninh Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Ngô Thì Nhậm-Tam Điệp-Ninh Bình</name>
+        <address>Đường Ngô Thì Nhậm, tổ 20, phường Trung Sơn, TP Tam Điệp, Ninh Bình</address>
+        <description>Đường Ngô Thì Nhậm, tổ 20, phường Trung Sơn, TP Tam Điệp, Ninh Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Yên Khánh-Ninh Bình</name>
+        <address>Thị trấn Yên Ninh, huyện Yên Khánh, tỉnh Ninh Bình</address>
+        <description>Thị trấn Yên Ninh, huyện Yên Khánh, tỉnh Ninh Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 111 Xuân Thành-Ninh Bình-Ninh Bình 02</name>
+        <address>SN 111 đường Xuân Thành, phường Tân Thành, thành phố Ninh Bình, Ninh Bình</address>
+        <description>SN 111 đường Xuân Thành, phường Tân Thành, thành phố Ninh Bình, Ninh Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Gia Viễn-Ninh Bình</name>
+        <description>324 Phố Thống Nhất, Thị trấn Me, huyện Gia Viễn, tỉnh Ninh Bình</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Kim Sơn-Ninh Bình</name>
+        <address>Thị trấn Phát Diệm, huyện Kim Sơn, tỉnh Ninh Bình</address>
+        <description>Thị trấn Phát Diệm, huyện Kim Sơn, tỉnh Ninh Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Yên Mô-Ninh Bình</name>
+        <address>Thị trấn Yên Thịnh, huyện Yên Mô, tỉnh Ninh Bình</address>
+        <description>Thị trấn Yên Thịnh, huyện Yên Mô, tỉnh Ninh Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Kỳ Trinh-Kỳ Anh-Hà Tĩnh</name>
+        <description>Nhà hàng Thương Hoài (Cầu Trô) -Kỳ Trinh - Kỳ Anh - Hà Tĩnh</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 12 Ngõ 340 Quang Trung-Hồng Lĩnh-Hà Tĩnh</name>
+        <address>SN 12 Ngõ 340 Đường Quang Trung , TX Hồng Lĩnh</address>
+        <description>SN 12 Ngõ 340 Đường Quang Trung , TX Hồng Lĩnh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 509 Trần Phú-TP.Hà Tĩnh</name>
+        <description>Số 67 - Tân Trung - Xã Thạch Trung - TP Hà Tĩnh - Tỉnh Hà Tĩnh</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 81 Ngô Mây-Cẩm Xuyên-Hà Tĩnh</name>
+        <address>Số 81 - Đường Ngô Mây - TT.Cẩm Xuyên - Huyện Cẩm Xuyên - Tỉnh Hà Tĩnh</address>
+        <description>Số 81 - Đường Ngô Mây - TT.Cẩm Xuyên - Huyện Cẩm Xuyên - Tỉnh Hà Tĩnh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 85 Trần Kim Xuyến-Hương Sơn-Hà Tĩnh</name>
+        <address>Số 10 - Đường Nguyễn Lỗi - Thị Trấn Phố Châu - Huyện Hương Sơn - Tĩnh Hà Tĩnh</address>
+        <description>Số 10 - Đường Nguyễn Lỗi - Thị Trấn Phố Châu - Huyện Hương Sơn - Tĩnh Hà Tĩnh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 509 Trần Phú-TP.Hà Tĩnh 02</name>
+        <description>Số 67 - Tân Trung - Xã Thạch Trung - TP Hà Tĩnh - Tỉnh Hà Tĩnh</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 193 Lý Tự Trọng-Thạch Hà-Hà Tĩnh</name>
+        <address>193 Lý Tự Trọng -Thị Trấn Thạch Hà - Huyện Thạch Hà - Tĩnh Hà Tĩnh</address>
+        <description>193 Lý Tự Trọng -Thị Trấn Thạch Hà - Huyện Thạch Hà - Tĩnh Hà Tĩnh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Can Lộc-Hà Tĩnh</name>
+        <address>Khối 9 - Quốc lộ 1A Bắc Nghèn - Thị Trấn Can Lộc - Huyện Can Lộc - Hà Tĩnh</address>
+        <description>Khối 9 - Quốc lộ 1A Bắc Nghèn - Thị Trấn Can Lộc - Huyện Can Lộc - Hà Tĩnh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Yên Định-Thanh Hóa</name>
+        <address>Thôn Kênh Khê, xã Định Bình, huyện Yên Định, Tỉnh Thanh Hóa</address>
+        <description>Thôn Kênh Khê, xã Định Bình, huyện Yên Định, Tỉnh Thanh Hóa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tĩnh Gia-Thanh Hóa</name>
+        <address>Thôn Trung Yến, Xã Hải Yến, Huyện Tĩnh Gia, Thanh Hóa.</address>
+        <description>Thôn Trung Yến, Xã Hải Yến, Huyện Tĩnh Gia, Thanh Hóa.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Nông Cống-Thanh Hóa</name>
+        <description>Thôn Thái Hòa 2, Thị trấn Nông Cống, H.Nông Cống, T. Thanh Hóa</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Cẩm Thủy-Thanh Hóa</name>
+        <address>Thôn phong ý, Thị trấn Phong Sơn, huyện Cẩm Thủy, tỉnh Thanh Hóa</address>
+        <description>Thôn phong ý, Thị trấn Phong Sơn, huyện Cẩm Thủy, tỉnh Thanh Hóa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Thọ Xuân-Thanh Hóa</name>
+        <address>Thôn Phú Gia, xã Nam Giang, Huyện Thọ Xuân, Tỉnh Thanh Hóa</address>
+        <description>Thôn Phú Gia, xã Nam Giang, Huyện Thọ Xuân, Tỉnh Thanh Hóa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Như Thanh-Thanh Hóa</name>
+        <address>342 KP1, Thị Trấn Bến Sung, Huyện Như Thanh</address>
+        <description>342 KP1, Thị Trấn Bến Sung, Huyện Như Thanh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Vĩnh Lộc-Thanh Hóa</name>
+        <address>Thôn Đồng Minh, Xã Vĩnh Phúc, Huyện Vĩnh Lộc</address>
+        <description>Thôn Đồng Minh, Xã Vĩnh Phúc, Huyện Vĩnh Lộc</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Hậu Lộc-Thanh Hóa</name>
+        <address>Thôn Châu Tử, Xã Châu Lộc, Huyện Hậu Lộc, Tỉnh Thanh Hóa</address>
+        <description>Thôn Châu Tử, Xã Châu Lộc, Huyện Hậu Lộc, Tỉnh Thanh Hóa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Hà Trung-Thanh Hóa</name>
+        <address>Thôn 4, xã Đồng Lộc, Huyện Hậu Lộc, Thanh Hóa</address>
+        <description>Thôn 4, xã Đồng Lộc, Huyện Hậu Lộc, Thanh Hóa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tân Kỳ-Nghệ An</name>
+        <address>Đối diện trường tiểu học Nghĩa Hoàn) Xóm Thắm, Xã Nghĩa Hoàn, Tân Kỳ, Nghệ An</address>
+        <description>Đối diện trường tiểu học Nghĩa Hoàn) Xóm Thắm, Xã Nghĩa Hoàn, Tân Kỳ, Nghệ An</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Quảng Xương-TP.Thanh Hóa</name>
+        <address>Thị trấn Quảng Xương, Huyện Quảng Xương, Tỉnh Thanh Hóa</address>
+        <description>Thị trấn Quảng Xương, Huyện Quảng Xương, Tỉnh Thanh Hóa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Ngọc Lặc-Thanh Hóa</name>
+        <address>Phố Nguyễn Trãi, Thị trấn Ngọc Lặc, Huyện Ngọc Lặc, Tỉnh Thanh Hóa</address>
+        <description>Phố Nguyễn Trãi, Thị trấn Ngọc Lặc, Huyện Ngọc Lặc, Tỉnh Thanh Hóa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 08 Noong Bua 1</name>
+        <description>Số nhà 08 đường 04 tổ 4 Thành phố Điện Biên Phủ-Điện Biên</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tuần Giáo</name>
+        <address>0 Thành phố Điện Biên Phủ-Điện Biên</address>
+        <description>0 Thành phố Điện Biên Phủ-Điện Biên</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 224 Phùng Hưng 1</name>
+        <address>224 Phùng Hưng Thành phố Hòa Bình-Hòa Bình</address>
+        <description>224 Phùng Hưng Thành phố Hòa Bình-Hòa Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Lương Sơn</name>
+        <description>Số nhà 206, Tiểu Khu 2 Huyện Lương Sơn-Hòa Bình</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tân Lạc</name>
+        <description>Xóm 1, Xã Tử Nê Huyện Tân Lạc-Hòa Bình</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Mường Tè</name>
+        <address>SN 021,Tổ 19 Thành Phố Lai Châu-Lai Châu</address>
+        <description>SN 021,Tổ 19 Thành Phố Lai Châu-Lai Châu</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tam Đường</name>
+        <address>SN 021,Tổ 19 Thành Phố Lai Châu-Lai Châu</address>
+        <description>SN 021,Tổ 19 Thành Phố Lai Châu-Lai Châu</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Lai Châu</name>
+        <address>SN 021,Tổ 19 Thành Phố Lai Châu-Lai Châu</address>
+        <description>SN 021,Tổ 19 Thành Phố Lai Châu-Lai Châu</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 19 Phú Thịnh 1</name>
+        <address>SN 19 - Đường Phú Thịnh Thành Phố Lào Cai-Lào Cai</address>
+        <description>SN 19 - Đường Phú Thịnh Thành Phố Lào Cai-Lào Cai</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 19 Phú Thịnh 2</name>
+        <address>SN 19 - Đường Phú Thịnh Thành Phố Lào Cai-Lào Cai</address>
+        <description>SN 19 - Đường Phú Thịnh Thành Phố Lào Cai-Lào Cai</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 233 Điện Biên Phủ</name>
+        <address>SN 233 Đường Điện Biên Phủ Huyện Sa pa-Lào Cai</address>
+        <description>SN 233 Đường Điện Biên Phủ Huyện Sa pa-Lào Cai</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 3499 Vân Phú 1</name>
+        <address>SN 3499 Đại Lộ Hùng Vương Thành Phố Việt Trì-Phú Thọ</address>
+        <description>SN 3499 Đại Lộ Hùng Vương Thành Phố Việt Trì-Phú Thọ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đoan Hùng</name>
+        <address>Khu 7 Huyện Đoan Hùng-Phú Thọ</address>
+        <description>Khu 7 Huyện Đoan Hùng-Phú Thọ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Hà Lộc Phú Thọ</name>
+        <address>Khu 8 Thị Xã Phú Thọ-Phú Thọ</address>
+        <description>Khu 8 Thị Xã Phú Thọ-Phú Thọ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Lâm Thao</name>
+        <address>Khu 4 Huyện Lâm Thao-Phú Thọ</address>
+        <description>Khu 4 Huyện Lâm Thao-Phú Thọ</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Phù Ninh</name>
+        <description>Khu 11 Huyện Phù Ninh-Phú Thọ</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Thanh Sơn</name>
+        <description>SN 201 Phố Hạ Sơn Huyện Thanh Sơn-Phú Thọ</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 280 Trần Đăng Ninh 1</name>
+        <address>Số nhà 280, Trần Đăng Ninh Thành phố Sơn La-Sơn La</address>
+        <description>Số nhà 280, Trần Đăng Ninh Thành phố Sơn La-Sơn La</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 724 Tô Hiệu</name>
+        <address>Số nhà 724, Tô Hiệu Huyện Mai Sơn-Sơn La</address>
+        <description>Số nhà 724, Tô Hiệu Huyện Mai Sơn-Sơn La</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Bắc Yên</name>
+        <address>Bản Đồng Lương Huyện Phù Yên-Sơn La</address>
+        <description>Bản Đồng Lương Huyện Phù Yên-Sơn La</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Mộc Châu</name>
+        <description>Số nhà 141,Tiểu khu 10 Huyện Mộc Châu-Sơn La</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Phù Yên</name>
+        <address>Bản Đồng Lương Huyện Phù Yên-Sơn La</address>
+        <description>Bản Đồng Lương Huyện Phù Yên-Sơn La</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Thuận Châu</name>
+        <address>Tiểu Khu 1 Huyện Thuận Châu-Sơn La</address>
+        <description>Tiểu Khu 1 Huyện Thuận Châu-Sơn La</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 107 Trần Hưng Đạo</name>
+        <address>Số 107, đường Trần Hưng Đạo Huyện Văn Yên-Yên Bái</address>
+        <description>Số 107, đường Trần Hưng Đạo Huyện Văn Yên-Yên Bái</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 373 Thanh Niên</name>
+        <address>Số 373, đường Thanh Niên Thành phố Yên Bái-Yên Bái</address>
+        <description>Số 373, đường Thanh Niên Thành phố Yên Bái-Yên Bái</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Văn Chấn</name>
+        <description>0 Huyện Văn Chấn-Yên Bái</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Hàm Thuận Bắc-Bình Thuận</name>
+        <address>Khu dân cư Lại An, thôn thắng thuận, hàm thuận bắc, Phan Thiết</address>
+        <description>Khu dân cư Lại An, thôn thắng thuận, hàm thuận bắc, Phan Thiết</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Phan Thiết-Bình Thuận</name>
+        <address>Khu dân cư Lại An, thôn thắng thuận, hàm thuận bắc, Phan Thiết</address>
+        <description>Khu dân cư Lại An, thôn thắng thuận, hàm thuận bắc, Phan Thiết</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 30 Hùng Vương-Hàm Tân-Bình Thuận</name>
+        <address>Quốc lộ 1A Thị trấn Tân nghĩa huyện Hàm Tân</address>
+        <description>Quốc lộ 1A Thị trấn Tân nghĩa huyện Hàm Tân</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đảo Phú Quý-Bình Thuận</name>
+        <address>Khu dân cư Lại An, thôn thắng thuận, hàm thuận bắc, Phan Thiết</address>
+        <description>Khu dân cư Lại An, thôn thắng thuận, hàm thuận bắc, Phan Thiết</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 263 Nguyễn Trường Tộ-La Gi-Bình Thuận</name>
+        <address>Quốc lộ 1A Thị trấn Tân nghĩa huyện Hàm Tân</address>
+        <description>Quốc lộ 1A Thị trấn Tân nghĩa huyện Hàm Tân</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Hàm Thuận Nam-Bình Thuận</name>
+        <address>163 Thôn Minh Tiến Hàm Minh Hàm Thuận Nam,Bình Thuận</address>
+        <description>163 Thôn Minh Tiến Hàm Minh Hàm Thuận Nam,Bình Thuận</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 158 Quốc lộ 55-Tánh Linh-Bình Thuận</name>
+        <address>Thôn Đức Thuận Tánh Linh</address>
+        <description>Thôn Đức Thuận Tánh Linh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 03 Cù Chính Lan-Nha Trang-Khánh Hòa</name>
+        <address>Số 9 Cù Chính Lan - Phường Phước Long - TP.Nha Trang - Khánh Hòa</address>
+        <description>Số 9 Cù Chính Lan - Phường Phước Long - TP.Nha Trang - Khánh Hòa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Diên Khánh-Khánh Hòa</name>
+        <address>Thôn Nam 3- xã Diên Sơn-huyện Diên Khánh- Khánh Hòa</address>
+        <description>Thôn Nam 3- xã Diên Sơn-huyện Diên Khánh- Khánh Hòa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 56 Phan Đình Phùng-Cam Ranh-Khánh Hòa</name>
+        <address>56 Phan Đình Phùng - Phường Cam Thuận - TP.Cam Ranh - Khánh Hòa</address>
+        <description>56 Phan Đình Phùng - Phường Cam Thuận - TP.Cam Ranh - Khánh Hòa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Ninh Hòa-Khánh Hòa</name>
+        <address>Tổ Dân Phố 15, P.Ninh Hiệp, TX Ninh Hòa, Khánh Hòa</address>
+        <description>Tổ Dân Phố 15, P.Ninh Hiệp, TX Ninh Hòa, Khánh Hòa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Cam Lâm-Khánh Hòa</name>
+        <address>Suối Cam - Cam Thành Bắc - H.Cam Lâm_Khánh Hòa</address>
+        <description>Suối Cam - Cam Thành Bắc - H.Cam Lâm_Khánh Hòa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Vạn Ninh-Khánh Hòa</name>
+        <address>Vạn Phước - Huyện Vạn Ninh _Khánh Hòa</address>
+        <description>Vạn Phước - Huyện Vạn Ninh _Khánh Hòa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 45 Phan Đình Phùng-Đức Trọng-Lâm Đồng</name>
+        <address>Hẻm 79 Phan Đình Phùng, Thị trấn Liên Nghĩa, Huyện Đức Trọng, Lâm Đồng</address>
+        <description>Hẻm 79 Phan Đình Phùng, Thị trấn Liên Nghĩa, Huyện Đức Trọng, Lâm Đồng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 33 Quang Trung-Lâm Hà-Lâm Đồng</name>
+        <address>Hẻm 79 Phan Đình Phùng, Thị trấn Liên Nghĩa, Huyện Đức Trọng, Lâm Đồng</address>
+        <description>Hẻm 79 Phan Đình Phùng, Thị trấn Liên Nghĩa, Huyện Đức Trọng, Lâm Đồng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đạ Huoai-Lâm Đồng</name>
+        <address>209/11 Hồ Tùng Mậu, Phường 1, thành phố Bảo Lộc, Lâm Đồng</address>
+        <description>209/11 Hồ Tùng Mậu, Phường 1, thành phố Bảo Lộc, Lâm Đồng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 192/9 Lý Thường Kiệt-Di Linh-Lâm Đồng</name>
+        <description>192/9 Lý Thường Kiệt, tổ dân phố 12, thị trấn Di Linh, huyện Di Linh, tỉnh Lâm Đồng</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 19 Đội Cấn-Bảo Lộc-Lâm Đồng</name>
+        <address>19 đội cấn, tp Bảo Lộc, Lâm Đồng</address>
+        <description>19 đội cấn, tp Bảo Lộc, Lâm Đồng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 391 Nguyễn Tử Lực-Đà Lạt-Lâm Đồng</name>
+        <address>391/12 Đa Thiện, Phường 8, TP Đà Lạt, Tỉnh Lâm Đồng</address>
+        <description>391/12 Đa Thiện, Phường 8, TP Đà Lạt, Tỉnh Lâm Đồng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đơn Dương-Lâm Đồng</name>
+        <description>74 đường 413A, Quảng Hòa, Quảng Lập, Đơn Dương, Lâm Đồng</description>
+      </Placemark>
+      <Placemark>
+        <name>Kho Trung Chuyển Lâm Đồng</name>
+        <address>Hẻm 79 Phan Đình Phùng, Thị trấn Liên Nghĩa, Huyện Đức Trọng, Lâm Đồng</address>
+        <description>Hẻm 79 Phan Đình Phùng, Thị trấn Liên Nghĩa, Huyện Đức Trọng, Lâm Đồng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục An Khê-Gia Lai</name>
+        <address>63 Nguyễn Thiếp - Phường Diên Hồng - TP.Pleiku - Gia Lai</address>
+        <description>63 Nguyễn Thiếp - Phường Diên Hồng - TP.Pleiku - Gia Lai</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đức Cơ-Gia Lai</name>
+        <address>63 Nguyễn Thiếp - Phường Diên Hồng - TP.Pleiku - Gia Lai</address>
+        <description>63 Nguyễn Thiếp - Phường Diên Hồng - TP.Pleiku - Gia Lai</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 38 Phan Đình Phùng-Chư Sê-Gia Lai</name>
+        <address>24 Phan Đình Phùng - Tổ 7 - Thị Trấn Chư Sê - Huyện Chư Sê - Gia Lai</address>
+        <description>24 Phan Đình Phùng - Tổ 7 - Thị Trấn Chư Sê - Huyện Chư Sê - Gia Lai</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 63 Nguyễn Thiếp-Pleiku-Gia Lai</name>
+        <address>63 Nguyễn Thiếp - Phường Diên Hồng - TP.Pleiku - Gia Lai</address>
+        <description>63 Nguyễn Thiếp - Phường Diên Hồng - TP.Pleiku - Gia Lai</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 307 Phan Đình Phùng-Pleiku-Gia Lai</name>
+        <address>307 Phan Đình Phùng - Phường Yên Đỗ - TP.Pleiku - Gia Lai</address>
+        <description>307 Phan Đình Phùng - Phường Yên Đỗ - TP.Pleiku - Gia Lai</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Kho Trung Chuyển Gia Lai</name>
+        <address>63 Nguyễn Thiếp - Phường Diên Hồng - TP.Pleiku - Gia Lai</address>
+        <description>63 Nguyễn Thiếp - Phường Diên Hồng - TP.Pleiku - Gia Lai</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tuy Phước-Bình Định</name>
+        <address>Đường Tây sơn , tổ 2 Khu vực 7 P.Nhơn phú, TP.Quy Nhơn, Bình Định</address>
+        <description>Đường Tây sơn , tổ 2 Khu vực 7 P.Nhơn phú, TP.Quy Nhơn, Bình Định</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục An Nhơn-An Nhơn-Bình Định</name>
+        <address>Số 539 đường Trường Chinh, khu vực An Ngãi, phường Nhơn Hưng, thị xã An Nhơn, tỉnh Bình Định</address>
+        <description>Số 539 đường Trường Chinh, khu vực An Ngãi, phường Nhơn Hưng, thị xã An Nhơn, tỉnh Bình Định</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Quy Nhơn-Bình Định</name>
+        <address>Đường Tây sơn , tổ 2 Khu vực 7 P.Nhơn phú, TP.Quy Nhơn, Bình Định</address>
+        <description>Đường Tây sơn , tổ 2 Khu vực 7 P.Nhơn phú, TP.Quy Nhơn, Bình Định</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Hoài Nhơn-Bình Định</name>
+        <address>Quốc lộ 1a, đệ đức 3, Xã Hòai Tân, Huyện Hòai Nhơn, Bình Đinh</address>
+        <description>Quốc lộ 1a, đệ đức 3, Xã Hòai Tân, Huyện Hòai Nhơn, Bình Đinh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Phù Cát-Bình Định</name>
+        <address>Quốc lộ 1a thị trấn Ngô Mây, Huyện Phù Cát, Tỉnh Bình định</address>
+        <description>Quốc lộ 1a thị trấn Ngô Mây, Huyện Phù Cát, Tỉnh Bình định</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tây Sơn-Bình Định</name>
+        <address>Đường Tây sơn , tổ 2 Khu vực 7 P.Nhơn phú, TP.Quy Nhơn, Bình Định</address>
+        <description>Đường Tây sơn , tổ 2 Khu vực 7 P.Nhơn phú, TP.Quy Nhơn, Bình Định</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Kho Trung Chuyển Bình Định</name>
+        <address>Đường Tây sơn , tổ 2 Khu vực 7 P.Nhơn phú, TP.Quy Nhơn, Bình Định</address>
+        <description>Đường Tây sơn , tổ 2 Khu vực 7 P.Nhơn phú, TP.Quy Nhơn, Bình Định</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Phú Hòa-Phú Yên</name>
+        <address>Phú Ân, Hòa An, Huyện Phú Hòa, Phú Yên</address>
+        <description>Phú Ân, Hòa An, Huyện Phú Hòa, Phú Yên</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đông Hòa-Phú Yên</name>
+        <address>khu phố 2, Thị Trấn Hòa Vinh, huyện Đông Hòa, Phú Yên</address>
+        <description>khu phố 2, Thị Trấn Hòa Vinh, huyện Đông Hòa, Phú Yên</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 86 Lê Lợi-Tuy Hòa-Phú Yên 01</name>
+        <address>100 Lương Văn Chánh, P5, TP Tuy Hoà, Phú Yên</address>
+        <description>100 Lương Văn Chánh, P5, TP Tuy Hoà, Phú Yên</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Kho Trung Chuyển Phú Yên</name>
+        <address>100 Lương Văn Chánh, P5, TP Tuy Hoà, Phú Yên</address>
+        <description>100 Lương Văn Chánh, P5, TP Tuy Hoà, Phú Yên</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tuy Phong-Bình Thuận</name>
+        <address>29 Trần Phú, thị trấn Liên Hương, huyện Tuy Phong, tỉnh Bình Thuận</address>
+        <description>29 Trần Phú, thị trấn Liên Hương, huyện Tuy Phong, tỉnh Bình Thuận</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Thuận Nam-Ninh Thuận</name>
+        <address>244c đường 21 tháng 8, TP Phan Rang_ Tháp chàm, Ninh Thuận</address>
+        <description>244c đường 21 tháng 8, TP Phan Rang_ Tháp chàm, Ninh Thuận</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Phan Rang-Ninh Thuận</name>
+        <address>số 1 Lương Văn Can , TP.Phan Rang_Tháp Chàm , Ninh Thuận</address>
+        <description>số 1 Lương Văn Can , TP.Phan Rang_Tháp Chàm , Ninh Thuận</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 57C Ngô Gia Tự-Bắc Bình-Bình Thuận</name>
+        <address>57c Ngô Gia Tự, chợ lầu, Bắc Bình, Bình Thuận</address>
+        <description>57c Ngô Gia Tự, chợ lầu, Bắc Bình, Bình Thuận</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Krông Năng-Đắk Lắk</name>
+        <address>Buôn Wiao A, Thị Trấn Krông năng, Huyện Krông năng, Đăk Lăk</address>
+        <description>Buôn Wiao A, Thị Trấn Krông năng, Huyện Krông năng, Đăk Lăk</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Buôn Đôn-Đắk Lắk</name>
+        <address>116 Hoàng Hoa Thám - P. Tân Tiến - TP. Buôn Mê Thuột - Đắk Lắk</address>
+        <description>116 Hoàng Hoa Thám - P. Tân Tiến - TP. Buôn Mê Thuột - Đắk Lắk</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Cư Kuin-Đắk Lắk</name>
+        <address>116 Hoàng Hoa Thám - P. Tân Tiến - TP. Buôn Mê Thuột - Đắk Lắk</address>
+        <description>116 Hoàng Hoa Thám - P. Tân Tiến - TP. Buôn Mê Thuột - Đắk Lắk</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Ea Kar-Đắk Lắk</name>
+        <address>Thôn An Cư Xã Cư Huê - H. Eakar - tỉnh Đắk Lắk</address>
+        <description>Thôn An Cư Xã Cư Huê - H. Eakar - tỉnh Đắk Lắk</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 116 Hoàng Hoa Thám-Buôn Ma Thuột-Đắk Lắk</name>
+        <address>116 Hoàng Hoa Thám - P. Tân Tiến - TP. Buôn Mê Thuột - Đắk Lắk</address>
+        <description>116 Hoàng Hoa Thám - P. Tân Tiến - TP. Buôn Mê Thuột - Đắk Lắk</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 685 Hùng Vương-Buôn Hồ-Đắk Lắk</name>
+        <address>685 Hùng Vương Phường An Lạc Thị Xã Buôn Hồ Tỉnh Đăk Lắk</address>
+        <description>685 Hùng Vương Phường An Lạc Thị Xã Buôn Hồ Tỉnh Đăk Lắk</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Ea H leo-Đắk Lắk</name>
+        <address><![CDATA[KM96 - Quốc lộ 14 - Xã Ea H'leo - Huyện Ea H'leo - Đắk Lắk]]></address>
+        <description><![CDATA[KM96 - Quốc lộ 14 - Xã Ea H'leo - Huyện Ea H'leo - Đắk Lắk]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 10 Trần Hưng Đạo-Krông Pắc-Đắk Lắk</name>
+        <address>10 Trần Hưng Đạo,Khu phố 11,TT Phước An,Huyện Krong Pack</address>
+        <description>10 Trần Hưng Đạo,Khu phố 11,TT Phước An,Huyện Krong Pack</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Kho Trung Chuyển Đắk Lắk</name>
+        <address>116 Hoàng Hoa Thám - P. Tân Tiến - TP. Buôn Mê Thuột - Đắk Lắk</address>
+        <description>116 Hoàng Hoa Thám - P. Tân Tiến - TP. Buôn Mê Thuột - Đắk Lắk</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đắk Mil-Đắk Nông</name>
+        <address>thôn 3 đắk lao, thị trấn Đắk Mil Đắc Nông</address>
+        <description>thôn 3 đắk lao, thị trấn Đắk Mil Đắc Nông</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đắk Song-Đắk Nông</name>
+        <address>gần bùng binh nhà văn hóa tổ 5 thị trấn Đức an, Đắk Song Đắc Nông</address>
+        <description>gần bùng binh nhà văn hóa tổ 5 thị trấn Đức an, Đắk Song Đắc Nông</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Cư Jút-Đắk Nông</name>
+        <description>05 Hùng Vương-Khối 5-Thị Trấn EaTling-Huyện Cư Jut - Đăk Nông</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 149 Đường 23/3-Gia Nghĩa-Đắk Nông</name>
+        <description>Số nhà 149 đường 23/3 Phường Nghĩa Tân_Gia Nghĩa_Đăk Nông</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 20 Nguyễn Du-Đắk R lấp-Đắk Nông</name>
+        <address>Số nhà 20 đường Nguyễn Tất Thành Thị Trấn Kiến Đức Huyện Đăk R Lấp</address>
+        <description>Số nhà 20 đường Nguyễn Tất Thành Thị Trấn Kiến Đức Huyện Đăk R Lấp</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 889 Quốc Lộ 14-Đồng Xoài-Bình Phước</name>
+        <description>889QL14 Phường Tân Bình thị xã Đồng Xoài tỉnh Bình Phước</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 17 Nguyễn Thị Minh Khai-Bù Đăng-Bình Phước</name>
+        <address>Đường Lê Hồng Phong, Khu Phố Đức Lập, Thị Trấn Đức Phong, Huyện Bù Đăng, Tỉnh Bình Phước</address>
+        <description>Đường Lê Hồng Phong, Khu Phố Đức Lập, Thị Trấn Đức Phong, Huyện Bù Đăng, Tỉnh Bình Phước</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Chơn Thành-Bình Phước</name>
+        <description>Số 69 Tổ 2 ấp 3 xã Minh Thành huyện Chơn Thành tỉnh Bình Phước</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Phú Riềng-Bình Phước</name>
+        <description>889QL14 Phường Tân Bình thị xã Đồng Xoài tỉnh Bình Phước</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Lộc Ninh-Bình Phước</name>
+        <description>Số 69 Tổ 2 ấp 3 xã Minh Thành huyện Chơn Thành tỉnh Bình Phước</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 21 Lý Tự Trọng-Nha Trang-Khánh Hòa</name>
+        <address>21 Lý Tự Trọng, Phường Lộc Thọ, Tp Nha Trang, Khánh Hòa</address>
+        <description>21 Lý Tự Trọng, Phường Lộc Thọ, Tp Nha Trang, Khánh Hòa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 195 Đường 2/4-Nha Trang-Khánh Hòa</name>
+        <address>Đường 2/4, Phường Vĩnh Hải, TP Nha Trang, Khánh Hòa</address>
+        <description>Đường 2/4, Phường Vĩnh Hải, TP Nha Trang, Khánh Hòa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Xã 10-Bù Đăng-Bình Phước</name>
+        <address>Thôn 1 xã Đường 10 huyện Bù Đăng tỉnh Bình Phước</address>
+        <description>Thôn 1 xã Đường 10 huyện Bù Đăng tỉnh Bình Phước</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 81 Nguyễn Chí Thanh-Cam Ranh-Khánh Hòa</name>
+        <address>81 Nguyễn Chí Thanh-Cam Ranh-Khánh Hòa</address>
+        <description>81 Nguyễn Chí Thanh-Cam Ranh-Khánh Hòa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 168 Ngô Quyền-Đà Lạt-Lâm Đồng</name>
+        <address>51B Xô Viết Nghệ Tĩnh-Đà Lạt-Lâm Đồng</address>
+        <description>51B Xô Viết Nghệ Tĩnh-Đà Lạt-Lâm Đồng</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Hòa Thuận-Buôn Ma Thuột-Đắk Lắk</name>
+        <address>116 Hoàng Hoa Thám - P. Tân Tiến - TP. Buôn Mê Thuột - Đắk Lắk</address>
+        <description>116 Hoàng Hoa Thám - P. Tân Tiến - TP. Buôn Mê Thuột - Đắk Lắk</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Hòa Phú-Buôn Ma Thuột-Đắk Lắk</name>
+        <address>116 Hoàng Hoa Thám - P. Tân Tiến - TP. Buôn Mê Thuột - Đắk Lắk</address>
+        <description>116 Hoàng Hoa Thám - P. Tân Tiến - TP. Buôn Mê Thuột - Đắk Lắk</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Ea Knop-Ea Kar-Đắk Lắk</name>
+        <description>158 Lê Duẩn Ea Knop-Ea Kar-Đắk Lắk</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 663 Đường 23/10-Nha Trang-Khánh Hoà</name>
+        <address>663 Đường 23/10-Nha Trang-Khánh Hoà</address>
+        <description>663 Đường 23/10-Nha Trang-Khánh Hoà</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Phước Đồng-Nha Trang-Khánh Hoà</name>
+        <address>Phước Đồng-Nha Trang-Khánh Hoà</address>
+        <description>Phước Đồng-Nha Trang-Khánh Hoà</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Phước Long-Bình Phước</name>
+        <address>Phước Long-Bình Phước</address>
+        <description>Phước Long-Bình Phước</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Hớn Quản-Bình Phước</name>
+        <address>Hớn Quản-Bình Phước</address>
+        <description>Hớn Quản-Bình Phước</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Ayun Pa-Gia Lai</name>
+        <address>Ayun Pa-Gia Lai</address>
+        <description>Ayun Pa-Gia Lai</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Ninh Phước-Ninh Thuận</name>
+        <address>Ninh Phước-Ninh Thuận</address>
+        <description>Ninh Phước-Ninh Thuận</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 654B Quang Trung-Phù Mỹ-Bình Định</name>
+        <address>654B Quang Trung-Phù Mỹ-Bình Định</address>
+        <description>654B Quang Trung-Phù Mỹ-Bình Định</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 206 Đống Đa-Quy Nhơn-Bình Định</name>
+        <address>206 Đống Đa-Quy Nhơn-Bình Định</address>
+        <description>206 Đống Đa-Quy Nhơn-Bình Định</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 158 Lê Duẩn Ea Knop-Ea Kar-Đắk Lắk</name>
+        <description>158 Lê Duẩn Ea Knop-Ea Kar-Đắk Lắk</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 12 A Ma Khê-Buôn Hồ-Đắk Lắk</name>
+        <address>12 A Ma Khê-Buôn Hồ-Đắk Lắk</address>
+        <description>12 A Ma Khê-Buôn Hồ-Đắk Lắk</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 5 Trần Hưng Đạo-Hàm Thuận Nam-Bình Thuận</name>
+        <address>5 Trần Hưng Đạo-Hàm Thuận Nam-Bình Thuận</address>
+        <description>5 Trần Hưng Đạo-Hàm Thuận Nam-Bình Thuận</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 27 Mười Tháng Ba-Buôn Ma Thuột-Đắk Lắk</name>
+        <address>27 Mười Tháng Ba-Buôn Ma Thuột-Đắk Lắk</address>
+        <description>27 Mười Tháng Ba-Buôn Ma Thuột-Đắk Lắk</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 01A Hoàng Văn Thụ-Cam Lâm-Khánh Hòa</name>
+        <address>01A Hoàng Văn Thụ-Cam Lâm-Khánh Hòa</address>
+        <description>01A Hoàng Văn Thụ-Cam Lâm-Khánh Hòa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 139 Lò Hột-TP.Trà Vinh</name>
+        <address>Số 139 Lò Hột Thành Phố Trà Vinh-Trà Vinh</address>
+        <description>Số 139 Lò Hột Thành Phố Trà Vinh-Trà Vinh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 66 Nguyễn Thị Minh Khai-TP.Trà Vinh</name>
+        <address>66 Nguyễn Thị Minh Khai, phường 7, Thành Phố Trà Vinh-Trà Vinh</address>
+        <description>66 Nguyễn Thị Minh Khai, phường 7, Thành Phố Trà Vinh-Trà Vinh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Duyên Hải-Trà Vinh</name>
+        <address>Quốc lộ 53 Huyện Duyên Hải-Trà Vinh</address>
+        <description>Quốc lộ 53 Huyện Duyên Hải-Trà Vinh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 145 Nhật Tảo-Vĩnh Hưng-Long An</name>
+        <address>145 Nhật Tảo Huyện Vĩnh Hưng-Long An</address>
+        <description>145 Nhật Tảo Huyện Vĩnh Hưng-Long An</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 45/2b Quốc Lộ 62-Tân An-Long An 01</name>
+        <address>45/2b Quốc Lộ 62 Thành phố Tân An-Long An</address>
+        <description>45/2b Quốc Lộ 62 Thành phố Tân An-Long An</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đức Hòa-Long An</name>
+        <address>179 Bĩnh Hữu 2 Huyện Đức Hòa-Long An</address>
+        <description>179 Bĩnh Hữu 2 Huyện Đức Hòa-Long An</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Kiến Tường-Long An</name>
+        <address>Phường 2 Thị xã Kiến Tường Thị xã Kiến Tường-Long An</address>
+        <description>Phường 2 Thị xã Kiến Tường Thị xã Kiến Tường-Long An</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tân Thạnh-Long An</name>
+        <address>Tân Thạnh Huyện Tân Thạnh-Long An</address>
+        <description>Tân Thạnh Huyện Tân Thạnh-Long An</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Thủ Thừa-Long An</name>
+        <address>Thủ Thừa Huyện Thủ Thừa-Long An</address>
+        <description>Thủ Thừa Huyện Thủ Thừa-Long An</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 275A Phan Văn Mãng-Bến Lức-Long An</name>
+        <address>153 Võ Công Tồn Huyện Bến Lức-Long An</address>
+        <description>153 Võ Công Tồn Huyện Bến Lức-Long An</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 156 Nguyễn An Ninh-Cần Giuộc-Long An</name>
+        <address>156 Nguyễn An Ninh Huyện Cần Giuộc-Long An</address>
+        <description>156 Nguyễn An Ninh Huyện Cần Giuộc-Long An</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Cần Đước-Long An</name>
+        <address>Khu 1B Thị trấn Cần Đước Huyện Cần Đước-Long An</address>
+        <description>Khu 1B Thị trấn Cần Đước Huyện Cần Đước-Long An</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đức Huệ-Long An</name>
+        <address>Ấp 4 Thị trấn Đức Huệ Huyện Đức Huệ-Long An</address>
+        <description>Ấp 4 Thị trấn Đức Huệ Huyện Đức Huệ-Long An</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 89 Nguyễn Thị Định-TP.Bến Tre 01</name>
+        <address>89 Nguyễn Thị Định Thành phố Bến Tre-Bến Tre</address>
+        <description>89 Nguyễn Thị Định Thành phố Bến Tre-Bến Tre</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 89 Nguyễn Thị Định-TP.Bến Tre 02</name>
+        <address>89 Nguyễn Thị Định Thành phố Bến Tre-Bến Tre</address>
+        <description>89 Nguyễn Thị Định Thành phố Bến Tre-Bến Tre</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Châu Thành-Bến Tre</name>
+        <address>Ấp Thạnh Hựu Huyện Châu Thành-Bến Tre</address>
+        <description>Ấp Thạnh Hựu Huyện Châu Thành-Bến Tre</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Mỏ Cày Nam-Bến Tre</name>
+        <address>Quốc Lộ 60 Huyện Mỏ Cày Nam-Bến Tre</address>
+        <description>Quốc Lộ 60 Huyện Mỏ Cày Nam-Bến Tre</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 206 A Đoàn Thị Nghiệp-Mỹ Tho-Tiền Giang 01</name>
+        <address>206 A Đoàn Thị Nghiệp Thành phố Mỹ Tho-Tiền Giang</address>
+        <description>206 A Đoàn Thị Nghiệp Thành phố Mỹ Tho-Tiền Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 206 A Đoàn Thị Nghiệp-Mỹ Tho-Tiền Giang 03</name>
+        <address>206 A Đoàn Thị Nghiệp Huyện Chợ Gạo-Tiền Giang</address>
+        <description>206 A Đoàn Thị Nghiệp Huyện Chợ Gạo-Tiền Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Gò Công-Tiền Giang</name>
+        <address>206 A Đoàn Thị Nghiệp Thị xã Gò Công-Tiền Giang</address>
+        <description>206 A Đoàn Thị Nghiệp Thị xã Gò Công-Tiền Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Cái Bè-Tiền Giang</name>
+        <description>65/1 Đường Cao Đặng Chiếm Huyện Cái Bè-Tiền Giang</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 65/1 Cao Đặng Chiếm-TX.Cai Lậy-Tiền Giang</name>
+        <address>65/1 Đường Cao Đặng Chiếm Thị xã Cai Lậy-Tiền Giang</address>
+        <description>65/1 Đường Cao Đặng Chiếm Thị xã Cai Lậy-Tiền Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Châu Thành-Tiền Giang</name>
+        <address>Ấp Ngãi Lợi Huyện Châu Thành-Tiền Giang</address>
+        <description>Ấp Ngãi Lợi Huyện Châu Thành-Tiền Giang</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 12-14 Bà Triệu-Cao Lãnh-Đồng Tháp</name>
+        <address>12-14 Bà Triệu Thành phố Cao Lãnh-Đồng Tháp</address>
+        <description>12-14 Bà Triệu Thành phố Cao Lãnh-Đồng Tháp</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 177 Nguyễn Văn Phát-Sa Đéc-Đồng Tháp</name>
+        <address>177 Nguyễn Văn Phát Thành phố Sa Đéc-Đồng Tháp</address>
+        <description>177 Nguyễn Văn Phát Thành phố Sa Đéc-Đồng Tháp</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tam Nông-Đồng Tháp</name>
+        <address>Huyện Tam Nồng-Đồng Tháp</address>
+        <description>Huyện Tam Nồng-Đồng Tháp</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Hồng Ngự-Đồng Tháp</name>
+        <description>594 Ấp An Lợi Huyện Hồng Ngự-Đồng Tháp</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tháp Mười-Đồng Tháp</name>
+        <address>12-14 Bà Triệu Huyện Tháp Mười-Đồng Tháp</address>
+        <description>12-14 Bà Triệu Huyện Tháp Mười-Đồng Tháp</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 69/20E Phó Cơ Điều-TP.Vĩnh Long</name>
+        <address>69/20E Phó Cơ Điều Thành phố Vĩnh Long-Vĩnh Long</address>
+        <description>69/20E Phó Cơ Điều Thành phố Vĩnh Long-Vĩnh Long</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Bình Minh-Vĩnh Long</name>
+        <description>số 0899 tổ 10 Ấp Thuận Tiến B Thị xã Bình Minh-Vĩnh Long</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Cây Hẹ-Tiểu Cần-Trà Vinh</name>
+        <address>Tiểu Cần-Trà Vinh</address>
+        <description>Tiểu Cần-Trà Vinh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cuc QL53-Vũng Liêm- Vĩnh Long</name>
+        <address>QL53-Vũng Liêm- Vĩnh Long</address>
+        <description>QL53-Vũng Liêm- Vĩnh Long</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 37 Bế Văn Cấm-Q.7-HCM 01</name>
+        <address>37 Bế Văn Cấm, Tân Kiểng, Quận 7</address>
+        <description>37 Bế Văn Cấm, Tân Kiểng, Quận 7</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 42 Võ Thị Nhờ-Q.7-HCM</name>
+        <address>42 Võ Thị Nhờ-Q.7-HCM</address>
+        <description>42 Võ Thị Nhờ-Q.7-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 1017 Huỳnh Tấn Phát-Q.7-HCM</name>
+        <address>1017 Huỳnh Tấn Phát-Q.7-HCM</address>
+        <description>1017 Huỳnh Tấn Phát-Q.7-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 58 Đường số 79-Q.7-HCM</name>
+        <address>58 Đường số 79-Q.7-HCM</address>
+        <description>58 Đường số 79-Q.7-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 785C Nguyễn Bình-Nhà Bè-HCM</name>
+        <address>785C Nguyễn Bình, Xã Nhơn Đức, Huyện Nhà Bè</address>
+        <description>785C Nguyễn Bình, Xã Nhơn Đức, Huyện Nhà Bè</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Cần Giờ-HCM</name>
+        <description>202 Ấp An Hòa, Tam Thôn Hiệp, Huyện Cần Giờ</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 977 Lê Văn Lương-Nhà Bè-HCM</name>
+        <address>977 Lê Văn Lương-Nhà Bè-HCM</address>
+        <description>977 Lê Văn Lương-Nhà Bè-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 38E Cây Keo-Q.Thủ Đức-HCM</name>
+        <address>38E Cây Keo, Tam Phú, Thủ Đức</address>
+        <description>38E Cây Keo, Tam Phú, Thủ Đức</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 4 Đường 1 Linh Tây-Q.Thủ Đức-HCM</name>
+        <address>4 Đường 1 Linh Tây - Q. Thủ Đức - HCM</address>
+        <description>4 Đường 1 Linh Tây - Q. Thủ Đức - HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 176 Gò Dưa-Thủ Đức-HCM</name>
+        <address>176 Gò Dưa-Thủ Đức-HCM</address>
+        <description>176 Gò Dưa-Thủ Đức-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Đại Học Quốc Gia-Q.Thủ Đức-HCM</name>
+        <address>Đại Học Quốc Gia-Q.Thủ Đức-HCM</address>
+        <description>Đại Học Quốc Gia-Q.Thủ Đức-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 285A Nguyễn Văn Tăng-Q.9-HCM</name>
+        <address>285A Nguyễn Văn Tăng, Long Thạnh Mỹ, Quận 9, Tp.HCM</address>
+        <description>285A Nguyễn Văn Tăng, Long Thạnh Mỹ, Quận 9, Tp.HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 80A Dương Đình Hội-Q.9-HCM</name>
+        <address>68 Đình Phong Phú-Q.9-HCM</address>
+        <description>68 Đình Phong Phú-Q.9-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 68 Đình Phong Phú-Q.9-HCM</name>
+        <address>80A Dương Đình Hội-Q.9-HCM</address>
+        <description>80A Dương Đình Hội-Q.9-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 1221 Nguyễn Duy Trinh-Q.9-HCM</name>
+        <address>1221 Nguyễn Duy Trinh-Q.9-HCM</address>
+        <description>1221 Nguyễn Duy Trinh-Q.9-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 370 Lê Hồng Phong-Q.10-HCM 01</name>
+        <address>370 Lê Hồng Phong, Phường 1, Quận 10</address>
+        <description>370 Lê Hồng Phong, Phường 1, Quận 10</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 128 Đồng Nai-Q.10-HCM 02</name>
+        <address>128 Đồng Nai, Phường 15, Quận 10</address>
+        <description>128 Đồng Nai, Phường 15, Quận 10</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 16A Lê Hồng Phong-Q.10-HCM 04</name>
+        <address>16A Lê Hồng Phong, Phường 12, Quận 10</address>
+        <description>16A Lê Hồng Phong, Phường 12, Quận 10</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 16A Lê Hồng Phong-Q.10-HCM 02</name>
+        <address>16A Lê Hồng Phong, Phường 12, Quận 10</address>
+        <description>16A Lê Hồng Phong, Phường 12, Quận 10</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 252 Minh Phụng-Q.11-HCM</name>
+        <address>252 Minh Phụng, Phường 2, Quận 11</address>
+        <description>252 Minh Phụng, Phường 2, Quận 11</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 295F Lý Thường Kiệt-Quận 11-HCM</name>
+        <address>295F Lý Thường Kiệt-Quận 11-HCM</address>
+        <description>295F Lý Thường Kiệt-Quận 11-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 20/82-84 Bờ Bao Tân Thắng-Q.Tân Phú-HCM</name>
+        <address>20/82-84 Bờ Bao Tân Thắng, Phường Sơn Kỳ, Quận Tân Phú</address>
+        <description>20/82-84 Bờ Bao Tân Thắng, Phường Sơn Kỳ, Quận Tân Phú</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 444 Lê Trọng Tấn-Q.Tân Phú-HCM</name>
+        <address>444 Lê Trọng Tấn, Phường Tây Thạnh, Quận Tân Phú</address>
+        <description>444 Lê Trọng Tấn, Phường Tây Thạnh, Quận Tân Phú</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 291 Nguyễn Sơn-Q.Tân Phú-HCM</name>
+        <address>291 Nguyễn Sơn, Phường Phú Thạnh, Quận Tân Phú</address>
+        <description>291 Nguyễn Sơn, Phường Phú Thạnh, Quận Tân Phú</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 425D Tân Kỳ Tân Quý-Q.Tân Phú-HCM</name>
+        <address>425D Tân Kỳ Tân Quý-Q.Tân Phú-HCM</address>
+        <description>425D Tân Kỳ Tân Quý-Q.Tân Phú-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 753 Lũy Bán Bích-Q.Tân Phú-HCM</name>
+        <address>753 Lũy Bán Bích-Q.Tân Phú-HCM</address>
+        <description>753 Lũy Bán Bích-Q.Tân Phú-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 496 Điện Biên Phủ-Q.10-HCM</name>
+        <address>496 Điện Biên Phủ-Q.10-HCM</address>
+        <description>496 Điện Biên Phủ-Q.10-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 1046 Trường Sa-Q.3-HCM</name>
+        <address>1046 Trường Sa-Q.3-HCM</address>
+        <description>1046 Trường Sa-Q.3-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 163 Nguyễn Đình Chiểu-Q.3-HCM</name>
+        <address>163 Nguyễn Đình Chiểu-Q.3-HCM</address>
+        <description>163 Nguyễn Đình Chiểu-Q.3-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 29A Đường Số 5-Q.2-HCM</name>
+        <address>29A Đường Số 5, Phường Cát Lái, Quận 2</address>
+        <description>29A Đường Số 5, Phường Cát Lái, Quận 2</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 141 Đường số 5 An Phú-Q.2-HCM</name>
+        <address>141 Đường số 5 An Phú-Q.2-HCM</address>
+        <description>141 Đường số 5 An Phú-Q.2-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 58 Vũ Tông Phan-Q2-HCM</name>
+        <address>58 Vũ Tông Phan-Q2-HCM</address>
+        <description>58 Vũ Tông Phan-Q2-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 04 Nhất Chi Mai-Q.Tân Bình-HCM</name>
+        <address>4 Nhất Chi Mai, Phường 13, Tân Bình</address>
+        <description>4 Nhất Chi Mai, Phường 13, Tân Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 400 Âu Cơ-Q.Tân Bình-HCM 01</name>
+        <address>400 Âu Cơ, Phường 10, Tân Bình</address>
+        <description>400 Âu Cơ, Phường 10, Tân Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 3/38 Bạch Đằng-Q.Tân Bình-HCM</name>
+        <address>3/38 Bạch Đằng , phường 2, Tân Bình</address>
+        <description>3/38 Bạch Đằng , phường 2, Tân Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 353A Nguyễn Thái Bình-Q.Tân Bình-HCM 01</name>
+        <address>353A Nguyễn Thái Bình, phường 12, Tân Bình</address>
+        <description>353A Nguyễn Thái Bình, phường 12, Tân Bình</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 111A Phạm Văn Hai-Q.Tân Bình-HCM</name>
+        <address>111A Phạm Văn Hai-Q.Tân Bình-HCM</address>
+        <description>111A Phạm Văn Hai-Q.Tân Bình-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 1106A Tỉnh lộ 10-Q.Bình Tân-HCM</name>
+        <address>1106A Tỉnh lộ 10-Q.Bình Tân-HCM</address>
+        <description>1106A Tỉnh lộ 10-Q.Bình Tân-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 1130 Đông Hưng Thuận 05-Q.12-HCM</name>
+        <address>1130 Đông Hưng Thuận 5</address>
+        <description>1130 Đông Hưng Thuận 5</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 90/6B Nguyễn Ảnh Thủ-Q.12-HCM</name>
+        <address>90/6B Nguyễn Ảnh Thủ, Hiệp Thành, Quận 12</address>
+        <description>90/6B Nguyễn Ảnh Thủ, Hiệp Thành, Quận 12</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 55 Trần Thị Do-Q.12-HCM</name>
+        <address>55 Trần Thị Do, phường Hiệp Thành, Quận 12</address>
+        <description>55 Trần Thị Do, phường Hiệp Thành, Quận 12</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 198 Thạnh Lộc 15-Q.12-HCM</name>
+        <address>198 Thạnh Lộc 15, Phường Thạnh Lộc, Quận 12</address>
+        <description>198 Thạnh Lộc 15, Phường Thạnh Lộc, Quận 12</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 35/6 Phan Văn Hớn-Q.12-HCM</name>
+        <address>35/6 Phan Văn Hớn-Q.12-HCM</address>
+        <description>35/6 Phan Văn Hớn-Q.12-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 117 Hùng Vương-Q.5-HCM</name>
+        <address>117 Hùng Vương-Q.5-HCM</address>
+        <description>117 Hùng Vương-Q.5-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 63 Ký Hòa-Q.5-HCM</name>
+        <address>63 Ký Hòa-Q.5-HCM</address>
+        <description>63 Ký Hòa-Q.5-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 2999 Phạm Thế Hiển-Q.8-HCM</name>
+        <address>2999 Phạm Thế Hiển, Phường 7, Quận 8</address>
+        <description>2999 Phạm Thế Hiển, Phường 7, Quận 8</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 291A Nguyễn Duy-Q.8-HCM</name>
+        <address>291A Nguyễn Duy-Q.8-HCM</address>
+        <description>291A Nguyễn Duy-Q.8-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 903B Tạ Quang Bửu-Q.8-HCM</name>
+        <address>Bưu cục 903B Tạ Quang Bửu-Q.8-HCM</address>
+        <description>Bưu cục 903B Tạ Quang Bửu-Q.8-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 05 Lê Công Phép - Bình Tân - HCM</name>
+        <address>05 Lê Công Phép - Bình Tân - HCM</address>
+        <description>05 Lê Công Phép - Bình Tân - HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục Tân Kiên-Bình Chánh-HCM</name>
+        <address>Tân Kiên</address>
+        <description>Tân Kiên</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 1A38 Trần Văn Giàu-Bình Chánh-HCM</name>
+        <address>1A38 Trần Văn Giàu-Bình Chánh-HCM</address>
+        <description>1A38 Trần Văn Giàu-Bình Chánh-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục QL50-Bình Chánh-HCM</name>
+        <address>QL50-Bình Chánh-HCM</address>
+        <description>QL50-Bình Chánh-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 242 Tỉnh Lộ 2-Củ Chi-HCM</name>
+        <address>242 Tỉnh Lộ 2, Xã Trung Lập Hạ, Huyện Củ Chi</address>
+        <description>242 Tỉnh Lộ 2, Xã Trung Lập Hạ, Huyện Củ Chi</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 126 Tỉnh Lộ 8-Củ Chi-HCM</name>
+        <address>126 Tỉnh Lộ 8-Củ Chi-HCM</address>
+        <description>126 Tỉnh Lộ 8-Củ Chi-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 7/11 Lê Thị Hà-Hóc Môn-HCM</name>
+        <address>7/11 Lê Thị Hà-Hóc Môn-HCM</address>
+        <description>7/11 Lê Thị Hà-Hóc Môn-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 43/5A Đặng Thúc Vịnh-Hóc Môn-HCM</name>
+        <address>43/5A Đặng Thúc Vịnh-Hóc Môn-HCM</address>
+        <description>43/5A Đặng Thúc Vịnh-Hóc Môn-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 65/1E Trần Văn Mười- Hóc Môn</name>
+        <address>65/1E Trần Văn Mười- Hóc Môn</address>
+        <description>65/1E Trần Văn Mười- Hóc Môn</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 316 Tỉnh Lộ 2-Củ Chi-HCM</name>
+        <address>316 Tỉnh Lộ 2-Củ Chi-HCM</address>
+        <description>316 Tỉnh Lộ 2-Củ Chi-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 2 Bis Nguyễn Thị Minh Khai-Q.1-HCM 02</name>
+        <address>2 Bis Nguyễn Thị Minh Khai Phường Nguyễn Cư Trinh, Đakao, Quận 1</address>
+        <description>2 Bis Nguyễn Thị Minh Khai Phường Nguyễn Cư Trinh, Đakao, Quận 1</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 7 Hồ Hảo Hớn-Q.1-HCM</name>
+        <address>7 Hồ Hảo Hơn-Q.1-HCM</address>
+        <description>7 Hồ Hảo Hơn-Q.1-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 352 Huỳnh Văn Bánh-Quận Phú Nhuận-HCM</name>
+        <address>352 Huỳnh Văn Bánh-Quận Phú Nhuận-HCM</address>
+        <description>352 Huỳnh Văn Bánh-Quận Phú Nhuận-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 69 Hoàng Văn Thụ-Q.Phú Nhuận-HCM 01</name>
+        <address>69 Hoàng Văn Thụ, phường 15, Phú Nhuận</address>
+        <description>69 Hoàng Văn Thụ, phường 15, Phú Nhuận</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 456 Nguyễn Kiệm-Q.Phú Nhuận-HCM</name>
+        <address>456 Nguyễn Kiệm-Q.Phú Nhuận-HCM</address>
+        <description>456 Nguyễn Kiệm-Q.Phú Nhuận-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 1135 Phan Văn Trị-Q.Gò Vấp-HCM</name>
+        <address>1135 Phan Văn Trị</address>
+        <description>1135 Phan Văn Trị</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 612 Phan Văn Trị-Q.Gò Vấp-HCM</name>
+        <address>612 Phan Văn Trị, Phường 7, Gò Vấp</address>
+        <description>612 Phan Văn Trị, Phường 7, Gò Vấp</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 1284 Quang Trung-Q.Gò Vấp-HCM</name>
+        <address>1284 Quang Trung, Phường 14, Gò Vấp</address>
+        <description>1284 Quang Trung, Phường 14, Gò Vấp</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 796 Quang Trung-Q.Gò Vấp-HCM</name>
+        <address>796 Quang Trung-Q.Gò Vấp-HCM</address>
+        <description>796 Quang Trung-Q.Gò Vấp-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 558 Phạm Văn Chiêu-Q.Gò Vấp-HCM</name>
+        <address>558 Phạm Văn Chiêu-Q.Gò Vấp-HCM</address>
+        <description>558 Phạm Văn Chiêu-Q.Gò Vấp-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 971 Nguyễn Kiệm-Q.Gò Vấp-HCM</name>
+        <description>Bưu cục 971 Nguyễn Kiệm-Q.Gò Vấp-HCM</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 197 Nguyễn Oanh-Q.Gò Vấp-HCM</name>
+        <address>197 Nguyễn Oanh-Q.Gò Vấp-HCM</address>
+        <description>197 Nguyễn Oanh-Q.Gò Vấp-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 684 Tỉnh Lộ 10-Q.Bình Tân-HCM</name>
+        <address>684 Tỉnh Lộ 10, Phường Bình Trị Đông, Quận Bình Tân</address>
+        <description>684 Tỉnh Lộ 10, Phường Bình Trị Đông, Quận Bình Tân</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 32 đường 3-Q.Bình Tân-HCM</name>
+        <address>32 đường 3-Q.Bình Tân-HCM</address>
+        <description>32 đường 3-Q.Bình Tân-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 29D Gò Xoài-Q.Bình Tân-HCM</name>
+        <address>29D Gò Xoài-Q.Bình Tân-HCM</address>
+        <description>29D Gò Xoài-Q.Bình Tân-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 63 Vĩnh Hội-Q.4-HCM</name>
+        <address>63 Vĩnh Hội, Phường 4, Quận 4</address>
+        <description>63 Vĩnh Hội, Phường 4, Quận 4</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục T30 Nguyễn Hữu Hào-Q.4-HCM</name>
+        <address>T30 Nguyễn Hữu Hào-Q.4-HCM</address>
+        <description>T30 Nguyễn Hữu Hào-Q.4-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 119 Nguyễn Văn Luông-Q.6-HCM</name>
+        <address>119 Nguyễn Văn Luông, Phường 10, Quận 6</address>
+        <description>119 Nguyễn Văn Luông, Phường 10, Quận 6</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 90 Bà Hom-Q.6-HCM</name>
+        <address>90 Bà Hom, Phường 13, Quận 6</address>
+        <description>90 Bà Hom, Phường 13, Quận 6</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 219 Nơ Trang Long-Q.Bình Thạnh-HCM 01</name>
+        <address>219 Nơ Trang Long, Phường 12, Quận Bình Thạnh</address>
+        <description>219 Nơ Trang Long, Phường 12, Quận Bình Thạnh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 292 Đinh Bộ Lĩnh-Q.Bình Thạnh-HCM</name>
+        <address>617 Xô Viết Nghệ Tĩnh, Phường 26, Quận Bình Thạnh</address>
+        <description>617 Xô Viết Nghệ Tĩnh, Phường 26, Quận Bình Thạnh</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 104 Lương Ngọc Quyến-Q.Bình Thạnh-HCM</name>
+        <address>104 Lương Ngọc Quyến-Q.Bình Thạnh-HCM</address>
+        <description>104 Lương Ngọc Quyến-Q.Bình Thạnh-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 47 Nguyễn Xí-Q.Bình Thạnh-HCM</name>
+        <address>47 Nguyễn Xí-Q.Bình Thạnh-HCM</address>
+        <description>47 Nguyễn Xí-Q.Bình Thạnh-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Bưu Cục 9 Hồng Bàng-Q.Bình Thạnh-HCM</name>
+        <description>9 Hồng Bàng-Q.Bình Thạnh-HCM</description>
+      </Placemark>
+      <Placemark>
+        <name>Bưu cục 251 Hàn Hải Nguyên-Q.10-HCM</name>
+        <address>251 Hàn Hải Nguyên-Q.10-HCM</address>
+        <description>251 Hàn Hải Nguyên-Q.10-HCM</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

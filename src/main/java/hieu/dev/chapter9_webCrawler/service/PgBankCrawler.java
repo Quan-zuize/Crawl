@@ -1,0 +1,47 @@
+package hieu.dev.chapter9_webCrawler.service;
+
+import hieu.dev.chapter9_webCrawler.entity.BankEntity;
+import hieu.dev.chapter9_webCrawler.selenium.BaseSeleniumCrawler;
+import lombok.extern.slf4j.Slf4j;
+import org.jsoup.Connection;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
+import org.springframework.data.mongodb.core.BulkOperations;
+import org.springframework.stereotype.Service;
+
+import java.io.IOException;
+import java.util.LinkedList;
+import java.util.List;
+
+@Service
+@Slf4j
+public class PgBankCrawler{
+    BaseSeleniumCrawler baseSeleniumCrawler = new BaseSeleniumCrawler();
+
+    public void crawl() throws IOException {
+        List<BankEntity> pgbanks = new LinkedList<>();
+
+        Connection connect = Jsoup.connect("https://thebank.vn/cong-cu/tim-chi-nhanh-ngan-hang/pg-bank-31.html");
+        Document document = connect.get();
+        Elements cityElements = document.select("div[id='template_data_company'] > a");
+        for (Element element: cityElements){
+            Connection child_connect = Jsoup.connect("https://thebank.vn/cong-cu/tim-chi-nhanh-ngan-hang/" + element.attr("href"));
+            Document child_document = child_connect.get();
+            Elements provinceElements = child_document.select("div[id='template_data_province_content'] > a");
+            for(Element child_element: provinceElements){
+                Connection grandchild_connect = Jsoup.connect("https://thebank.vn/cong-cu/tim-chi-nhanh-ngan-hang/" + child_element.attr("href"));
+                Document grandchild_document = grandchild_connect.get();
+                Elements bankElements = grandchild_document.select("tbody[class='content_branch roboto-light'] > tr");
+                for(Element bank: bankElements) {
+                    BankEntity entity = new BankEntity();
+                    String name = bank.getElementsByClass("brad").get(0).text();
+                    entity.setName(!name.contains("PG Bank") ? "Ngân hàng Pg ".concat(name) : name);
+                    entity.setAddress(bank.getElementsByTag("td").get(2).text());
+                    baseSeleniumCrawler.saveDataBank(entity.getAddress(), entity.getName(), "pgbanks");
+                }
+            }
+        }
+    }
+}
