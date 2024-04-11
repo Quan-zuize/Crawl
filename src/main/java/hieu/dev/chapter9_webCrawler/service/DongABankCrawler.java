@@ -3,9 +3,6 @@ package hieu.dev.chapter9_webCrawler.service;
 import hieu.dev.chapter9_webCrawler.entity.BankEntity;
 import hieu.dev.chapter9_webCrawler.selenium.BaseSeleniumCrawler;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.mongodb.core.BulkOperations;
-import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;
@@ -15,14 +12,14 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Optional;
-import java.util.Collection;
-import java.util.stream.Collectors;
 
 import static hieu.dev.chapter9_webCrawler.Utils.normalize;
+import static hieu.dev.chapter9_webCrawler.selenium.BaseSeleniumCrawler.preHandle;
 
 @Service
 @Slf4j
 public class DongABankCrawler {
+    static BaseSeleniumCrawler baseSeleniumCrawler = new BaseSeleniumCrawler();
     public static void main(String[] args) throws IOException {
 //    @Autowired
 //    private MongoTemplate mongoTemplate;
@@ -74,8 +71,8 @@ public class DongABankCrawler {
                 }
             }
             if(entity.getLon() == null || entity.getLat() == null){
-                BaseSeleniumCrawler baseSeleniumCrawler = new BaseSeleniumCrawler();
-                baseSeleniumCrawler.saveDataBank(entity.getAddress(), entity.getName(), "dongabanks");
+                String googleSearch = preHandleGGBank(entity.getAddress(), entity.getName());
+                baseSeleniumCrawler.saveDataV2(entity.getAddress(), entity.getName(), googleSearch, "dongabanks");
             }else{
                 dongabanks.add(entity);
             }
@@ -116,9 +113,8 @@ public class DongABankCrawler {
                 }
             }
             if(entity.getLon() == null || entity.getLat() == null){
-                BaseSeleniumCrawler baseSeleniumCrawler = new BaseSeleniumCrawler();
-                baseSeleniumCrawler.saveDataBank(entity.getAddress(), entity.getName(), "dongabanks");
-            }else{
+                String googleSearch = preHandleGGBank(entity.getAddress(), entity.getName());
+                baseSeleniumCrawler.saveDataV2(entity.getAddress(), entity.getName(), googleSearch, "dongabanks");            }else{
                 dongabanks.add(entity);
             }
         }
@@ -165,8 +161,8 @@ public class DongABankCrawler {
             }
 
             if(entity.getLon() == null || entity.getLat() == null){
-                BaseSeleniumCrawler baseSeleniumCrawler = new BaseSeleniumCrawler();
-                baseSeleniumCrawler.saveDataBank(entity.getAddress(), entity.getName(), "dongabanks");
+                String googleSearch = preHandleGGBank(entity.getAddress(), entity.getName());
+                baseSeleniumCrawler.saveDataV2(entity.getAddress(), entity.getName(), googleSearch, "dongabanks");
             }else{
                 dongabanks.add(entity);
             }
@@ -214,8 +210,8 @@ public class DongABankCrawler {
             }
 
             if(entity.getLon() == null || entity.getLat() == null){
-                BaseSeleniumCrawler baseSeleniumCrawler = new BaseSeleniumCrawler();
-                baseSeleniumCrawler.saveDataBank(entity.getAddress(), entity.getName(), "dongabanks");
+                String googleSearch = preHandleGGBank(entity.getAddress(), entity.getName());
+                baseSeleniumCrawler.saveDataV2(entity.getAddress(), entity.getName(), googleSearch, "dongabanks");
             }else{
                 dongabanks.add(entity);
             }
@@ -238,5 +234,11 @@ public class DongABankCrawler {
 //        BulkOperations bulkOperations = mongoTemplate.bulkOps(BulkOperations.BulkMode.UNORDERED, BankEntity.class);
 //        dongabanks.forEach(bulkOperations::insert);
 //        bulkOperations.execute();
+    }
+
+    private static String preHandleGGBank(String address, String name) {
+        address = preHandle(address);
+        return String.join(" ", name.split("( - CN )+|(-|\\s)+(?<=-\\s)[^-]+(?=\\s-) - PGD "))
+                .concat(", ").concat(address.split("(?i),\\s*Tỉnh")[0]);
     }
 }

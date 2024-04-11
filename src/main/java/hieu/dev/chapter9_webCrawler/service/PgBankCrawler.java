@@ -8,12 +8,13 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import org.springframework.data.mongodb.core.BulkOperations;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;
 import java.util.LinkedList;
 import java.util.List;
+
+import static hieu.dev.chapter9_webCrawler.selenium.BaseSeleniumCrawler.preHandle;
 
 @Service
 @Slf4j
@@ -39,9 +40,15 @@ public class PgBankCrawler{
                     String name = bank.getElementsByClass("brad").get(0).text();
                     entity.setName(!name.contains("PG Bank") ? "Ngân hàng Pg ".concat(name) : name);
                     entity.setAddress(bank.getElementsByTag("td").get(2).text());
-                    baseSeleniumCrawler.saveDataBank(entity.getAddress(), entity.getName(), "pgbanks");
+                    String googleSearch = preHandleGGBank(entity.getAddress(), entity.getName());
+                    baseSeleniumCrawler.saveDataV2(entity.getAddress(), entity.getName(), googleSearch, "pgbanks");
                 }
             }
         }
+    }
+
+    private String preHandleGGBank(String address, String name) {
+        address = preHandle(address);
+        return name.concat(", ").concat(address.split("(?i),\\s*Tỉnh")[0]);
     }
 }

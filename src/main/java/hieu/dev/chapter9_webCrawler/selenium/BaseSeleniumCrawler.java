@@ -95,9 +95,8 @@ public class BaseSeleniumCrawler {
         saveData(google, address, name, collectionName);
     }
 
-    public void saveDataBank(String address, String name, String collectionName) {
+    public void saveDataV2(String address, String name, String google, String collectionName) {
         address = preHandle(address);
-        String google = preHandleGGBank(address, name);
         saveData(google, address, name, collectionName);
     }
 
@@ -255,7 +254,7 @@ public class BaseSeleniumCrawler {
             entity.setLat(lat);
             entity.setLon(lon);
             entity.setGoogle(true);
-            //mongoTemplate.save(entity, collectionName);
+            mongoTemplate.save(entity, collectionName);
             i++;
             log.info("{} Place: {}",i, gson.toJson(entity));
         }
@@ -307,11 +306,6 @@ public class BaseSeleniumCrawler {
         }
     }
 
-    public static String preHandleGGBank(String address, String name) {
-        return String.join(" ", name.split("( - CN )+|(-|\\s)+(?<=-\\s)[^-]+(?=\\s-) - PGD "))
-                .concat(", ").concat(address.split("(?i),\\s*Tỉnh")[0]);
-    }
-
     public static String preHandleGG(String address) {
         return address
                 .replaceAll("(?i)thành phố", ",")
@@ -325,7 +319,7 @@ public class BaseSeleniumCrawler {
     public static String preHandle(String address) {
         return address
                 .split(" 0\\d{2}")[0].split(" \\(0\\d{2}")[0].trim()
-                .replaceAll("(?i) đường", "")
+//                .replaceAll("(?i) đường", "")
                 .replaceAll("(?i)TP\\.?\\s?", " thành phố ")
                 .replaceAll(" Q\\.+", " quận ")
                 .replaceAll(" Q\\s+", " quận ")

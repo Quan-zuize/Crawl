@@ -1,0 +1,429 @@
+{
+  "local_address": [
+    {
+      "name": "An Giang",
+      "id": 116
+    },
+    {
+      "name": "Bu00e0 Ru1ecba - Vu0169ng Tu00e0u",
+      "id": 113,
+      "district": [
+        {
+          "name": "Thu00e0nh Phu1ed1 Bu00e0 Ru1ecba",
+          "id": 159
+        },
+        {
+          "name": "TX Phu00fa Mu1ef9",
+          "id": 158
+        }
+      ]
+    },
+    {
+      "name": "Bu1eafc Giang",
+      "id": 130,
+      "district": [
+        {
+          "name": "Huyu1ec7n Yu00ean Du0169ng",
+          "id": 160
+        }
+      ]
+    },
+    {
+      "name": "Bu1eafc Ninh",
+      "id": 155,
+      "district": [
+        {
+          "name": "Thu00e0nh Phu1ed1 Bu1eafc Ninh",
+          "id": 219
+        },
+        {
+          "name": "Thuu1eadn Thu00e0nh",
+          "id": 189
+        }
+      ]
+    },
+    {
+      "name": "Bu1ebfn Tre",
+      "id": 119
+    },
+    {
+      "name": "Bu00ecnh Du01b0u01a1ng",
+      "id": 112,
+      "district": [
+        {
+          "name": "Du0129 An",
+          "id": 183
+        }
+      ]
+    },
+    {
+      "name": "Bu00ecnh u0110u1ecbnh",
+      "id": 216,
+      "district": [
+        {
+          "name": "Quy Nhu01a1n",
+          "id": 217
+        }
+      ]
+    },
+    {
+      "name": "Bu00ecnh Phu01b0u1edbc",
+      "id": 120
+    },
+    {
+      "name": "Bu00ecnh Thuu1eadn",
+      "id": 228,
+      "district": [
+        {
+          "name": "Thu00e0nh Phu1ed1 Phan Thiu1ebft",
+          "id": 229
+        }
+      ]
+    },
+    {
+      "name": "Cu1ea7n Thu01a1",
+      "id": 118,
+      "district": [
+        {
+          "name": "Quu1eadn Cu00e1i Ru0103ng",
+          "id": 162
+        },
+        {
+          "name": "Quu1eadn Ninh Kiu1ec1u",
+          "id": 161
+        }
+      ]
+    },
+    {
+      "name": "u0110u00e0 Nu1eb5ng",
+      "id": 151
+    },
+    {
+      "name": "u0110u1ed3ng Nai",
+      "id": 111,
+      "district": [
+        {
+          "name": "Tru1ea3ng Bom",
+          "id": 218
+        }
+      ]
+    },
+    {
+      "name": "u0110u1ed3ng Thu00e1p",
+      "id": 224,
+      "district": [
+        {
+          "name": "Sa u0110u00e9c",
+          "id": 225
+        }
+      ]
+    },
+    {
+      "name": "Gia Lai",
+      "id": 121
+    },
+    {
+      "name": "Hu00e0 Giang",
+      "id": 127
+    },
+    {
+      "name": "Hu1ea3i Du01b0u01a1ng",
+      "id": 123,
+      "district": [
+        {
+          "name": "Kim Thu00e0nh",
+          "id": 188
+        }
+      ]
+    },
+    {
+      "name": "Hu01b0ng Yu00ean",
+      "id": 156,
+      "district": [
+        {
+          "name": "Vu0103n Giang",
+          "id": 185
+        },
+        {
+          "name": "Yu00ean Mu1ef9",
+          "id": 190
+        }
+      ]
+    },
+    {
+      "name": "Khu00e1nh Hu00f2a",
+      "id": 114,
+      "district": [
+        {
+          "name": "Tp. Nha Trang",
+          "id": 171
+        }
+      ]
+    },
+    {
+      "name": "Kiu00ean Giang",
+      "id": 227
+    },
+    {
+      "name": "Lai Chu00e2u",
+      "id": 191
+    },
+    {
+      "name": "Long An",
+      "id": 117,
+      "district": [
+        {
+          "name": "u0110u1ee9c Hu00f2a",
+          "id": 137
+        },
+        {
+          "name": "Tu00e2n An",
+          "id": 138
+        }
+      ]
+    },
+    {
+      "name": "Nam u0110u1ecbnh",
+      "id": 131
+    },
+    {
+      "name": "Phu00fa Thu1ecd",
+      "id": 129,
+      "district": [
+        {
+          "name": "Viu1ec7t Tru00ec",
+          "id": 192
+        }
+      ]
+    },
+    {
+      "name": "Quu1ea3ng Ngu00e3i",
+      "id": 122
+    },
+    {
+      "name": "Quu1ea3ng Ninh",
+      "id": 125
+    },
+    {
+      "name": "Thu00e1i Bu00ecnh",
+      "id": 128
+    },
+    {
+      "name": "Thu00e1i Nguyu00ean",
+      "id": 126
+    },
+    {
+      "name": "Thu00e0nh phu1ed1 Hu00e0 Hu1ed9i",
+      "id": 98,
+      "district": [
+        {
+          "name": "Huyu1ec7n Ba Vu00ec",
+          "id": 108
+        },
+        {
+          "name": "Huyu1ec7n u0110an Phu01b0u1ee3ng",
+          "id": 152
+        },
+        {
+          "name": "Huyu1ec7n u0110u00f4ng Anh",
+          "id": 157
+        },
+        {
+          "name": "Huyu1ec7n Gia Lu00e2m",
+          "id": 154
+        },
+        {
+          "name": "Huyu1ec7n Hou00e0i u0110u1ee9c",
+          "id": 107
+        },
+        {
+          "name": "Huyu1ec7n Quu1ed1c Oai",
+          "id": 153
+        },
+        {
+          "name": "Long Biu00ean",
+          "id": 187
+        },
+        {
+          "name": "Quu1eadn Bu1eafc Tu1eeb Liu00eam",
+          "id": 101
+        },
+        {
+          "name": "Quu1eadn Cu1ea7u Giu1ea5y",
+          "id": 140
+        },
+        {
+          "name": "Quu1eadn u0110u1ed1ng u0110a",
+          "id": 164
+        },
+        {
+          "name": "Quu1eadn Hu00e0 u0110u00f4ng",
+          "id": 103
+        },
+        {
+          "name": "Quu1eadn Hai Bu00e0 Tru01b0ng",
+          "id": 104
+        },
+        {
+          "name": "Quu1eadn Hou00e0ng Mai",
+          "id": 102
+        },
+        {
+          "name": "Quu1eadn Nam Tu1eeb Liu00eam",
+          "id": 100
+        },
+        {
+          "name": "Quu1eadn Tu00e2y Hu1ed3",
+          "id": 106
+        },
+        {
+          "name": "Quu1eadn Thanh Tru00ec",
+          "id": 99
+        },
+        {
+          "name": "Quu1eadn Thanh Xuu00e2n",
+          "id": 105
+        },
+        {
+          "name": "Quu1eadn Thu01b0u1eddng Tu00edn",
+          "id": 109
+        },
+        {
+          "name": "Thu1ecb tru1ea5n Chu01b0u01a1ng Mu1ef9",
+          "id": 110
+        }
+      ]
+    },
+    {
+      "name": "Thu00e0nh phu1ed1 Hu1ed3 Chu00ed Minh",
+      "id": 85,
+      "district": [
+        {
+          "name": "Huyu1ec7n Cu1ee7 Chi",
+          "id": 184
+        },
+        {
+          "name": "Huyu1ec7n Hu00f3c Mu00f4n",
+          "id": 97
+        },
+        {
+          "name": "Quu1eadn 1",
+          "id": 139
+        },
+        {
+          "name": "Quu1eadn 10",
+          "id": 165
+        },
+        {
+          "name": "Quu1eadn 11",
+          "id": 163
+        },
+        {
+          "name": "Quu1eadn 12",
+          "id": 91
+        },
+        {
+          "name": "Quu1eadn 2",
+          "id": 86
+        },
+        {
+          "name": "Quu1eadn 3",
+          "id": 170
+        },
+        {
+          "name": "Quu1eadn 4",
+          "id": 166
+        },
+        {
+          "name": "Quu1eadn 5",
+          "id": 87
+        },
+        {
+          "name": "Quu1eadn 6",
+          "id": 88
+        },
+        {
+          "name": "Quu1eadn 7",
+          "id": 169
+        },
+        {
+          "name": "Quu1eadn 8",
+          "id": 89
+        },
+        {
+          "name": "Quu1eadn 9",
+          "id": 90
+        },
+        {
+          "name": "Quu1eadn Bu00ecnh Tu00e2n",
+          "id": 96
+        },
+        {
+          "name": "Quu1eadn Bu00ecnh Thu1ea1nh",
+          "id": 182
+        },
+        {
+          "name": "Quu1eadn Gu00f2 Vu1ea5p",
+          "id": 92
+        },
+        {
+          "name": "Quu1eadn Phu00fa Nhuu1eadn",
+          "id": 168
+        },
+        {
+          "name": "Quu1eadn Tu00e2n Bu00ecnh",
+          "id": 94
+        },
+        {
+          "name": "Quu1eadn Tu00e2n Phu00fa",
+          "id": 95
+        },
+        {
+          "name": "Quu1eadn Thu1ee7 u0110u1ee9c",
+          "id": 93
+        }
+      ]
+    },
+    {
+      "name": "Tiu1ec1n Giang",
+      "id": 115
+    },
+    {
+      "name": "Vu0129nh Long",
+      "id": 147
+    },
+    {
+      "name": "Vu0129nh Phu00fac",
+      "id": 124,
+      "district": [
+        {
+          "name": "Phu00fac Yu00ean",
+          "id": 215
+        },
+        {
+          "name": "Vu0129nh Yu00ean",
+          "id": 186
+        }
+      ]
+    }
+  ],
+  "maps_zoom": "17",
+  "select_text": "Chu1ecdn quu1eadn, huyu1ec7n",
+  "lat_default": "10.821576",
+  "lng_default": "106.688510",
+  "close_icon": "https://miutea.vn/wp-content/plugins/devvn-local-store/assets/images/close-btn.png",
+  "marker_default": [
+    "https://miutea.vn/wp-content/uploads/2020/08/allsp-miutea.png",
+    39,
+    39,
+    false
+  ],
+  "labels": {
+    "disallow_labels": "Cho phu00e9p truy cu1eadp vu1ecb tru00ed cu1ee7a bu1ea1n u0111u1ec3 tu1ea3i cu1eeda hu00e0ng gu1ea7n bu1ea1n",
+    "get_directions": "Nhu1eadn chu1ec9 u0111u01b0u1eddng",
+    "text_open": "Thu1eddi gian mu1edf cu1eeda",
+    "text_phone": "u0110iu1ec7n Thou1ea1i",
+    "text_hotline": "Hotline",
+    "text_email": "Email"
+  }
+}

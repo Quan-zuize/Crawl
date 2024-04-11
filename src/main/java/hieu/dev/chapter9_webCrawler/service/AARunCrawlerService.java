@@ -154,10 +154,12 @@ public class AARunCrawlerService {
     AgribankCrawler agribankCrawler;
     DongABankCrawler dongABankCrawler;
     PgBankCrawler pgBankCrawler;
+    MiuteaCrawlerService miuteaCrawlerService;
 
     @PostConstruct
     void init() throws IOException {
-        pgBankCrawler.crawl();
+        miuteaCrawlerService.crawl();
+//        pgBankCrawler.crawl();
 //        dongABankCrawler.crawlData();
 //        agribankCrawler.crawl();
 //        theCoffeeHouseCrawler.crawlTheCoffeeHouse();

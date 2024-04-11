@@ -8,12 +8,15 @@ import org.apache.logging.log4j.util.Strings;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.springframework.util.CollectionUtils;
 import org.springframework.web.util.UriComponentsBuilder;
 
 import java.net.URLDecoder;
 import java.nio.charset.StandardCharsets;
 import java.text.Normalizer;
+import java.time.Duration;
 import java.util.List;
 import java.util.Map;
 import java.util.Objects;
@@ -128,7 +131,6 @@ public class Utils {
     public static String getSearchUrl(ChromeDriver driver, String addressWthNameBuilding, String address) {
         WebElement searchBoxDiv = doRetry(() -> driver.findElement(By.id("omnibox-singlebox")));
         WebElement searchBoxElement = doRetry(() -> driver.findElement(By.id("searchboxinput")));
-        searchBoxElement.clear();
 
         searchBoxElement.sendKeys(addressWthNameBuilding);
         WebElement searchElement = doRetry(() -> driver.findElement(By.id("searchbox-searchbutton")));
@@ -150,6 +152,13 @@ public class Utils {
             driver.findElement(By.cssSelector("div[aria-label][role='feed']"));
             return Utils.getSuggestAddressUrl(driver, addressWthNameBuilding, address);
         } catch (Exception ignored) {
+            try{
+                WebElement closeElement = driver.findElement(By.cssSelector("button[aria-label][data-tooltip='Close directions']"));
+                new WebDriverWait(driver, Duration.ofSeconds(1)).until(ExpectedConditions.elementToBeClickable(By.cssSelector("button[aria-label][data-tooltip='Close directions']"))).click();
+            }catch (Exception exception){
+                //ignore
+            }
+            searchBoxElement.clear();
             return currentUrl;
         }
     }
@@ -168,7 +177,7 @@ public class Utils {
 
     public static String getSuggestAddressUrl(ChromeDriver driver, String addressWthNameBuilding, String address) {
         WebElement searchBoxDiv = doRetry(() -> driver.findElement(By.id("searchbox")));
-        WebElement searchBoxElement = driver.findElement(By.id("searchboxinput"));
+        WebElement searchBoxElement = doRetry(() -> driver.findElement(By.id("searchboxinput")));
         searchBoxElement.clear();
         searchBoxElement.sendKeys(addressWthNameBuilding);
         searchBoxElement.click();
