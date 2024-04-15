@@ -33,3 +33,4 @@ build/
 .vscode/
 
 map_data/*
+logs/

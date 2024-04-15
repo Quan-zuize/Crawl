@@ -158,7 +158,7 @@ public class AARunCrawlerService {
 
     @PostConstruct
     void init() throws IOException {
-        miuteaCrawlerService.crawl();
+//        miuteaCrawlerService.crawl();
 //        pgBankCrawler.crawl();
 //        dongABankCrawler.crawlData();
 //        agribankCrawler.crawl();
@@ -166,7 +166,7 @@ public class AARunCrawlerService {
 //        phucLongCrawler.crawlPhucLong();
 //        congCoffeeCrawler.crawlCongCoffee();
 //        tocotocoCrawler.crawTocotoco();
-//        dingteaCrawler.crawDingTea();
+        dingteaCrawler.crawDingTea();
 //        bobapopCrawler.crawl();
 //        gongChaCrawler.crawlGongCha();
 //        theAlleyCrawler.crawlTheAlley();

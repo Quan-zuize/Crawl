@@ -243,6 +243,8 @@ public class BaseSeleniumCrawler {
         String currentUrl = Utils.getSearchUrl(driver, googleAddress, address);
         if(currentUrl == null) return;
 
+
+
         List<Double> coordinates = Utils.handleCoordinatesByUrl(currentUrl);
         if (!CollectionUtils.isEmpty(coordinates)) {
             double lat = coordinates.get(0);
@@ -323,7 +325,8 @@ public class BaseSeleniumCrawler {
                 .replaceAll("(?i)TP\\.?\\s?", " thành phố ")
                 .replaceAll(" Q\\.+", " quận ")
                 .replaceAll(" Q\\s+", " quận ")
-                .replaceAll(" P\\s+", " phường ")
+                .replaceAll(" P\\.+", " phường ")
+                .replaceAll(",P\\.+", ", phường ")
                 .replaceAll(" P\\s+", " phường ")
                 .replaceAll(" H\\.+", " huyện ")
                 .replaceAll(" H\\s+", " huyện ")
@@ -331,6 +334,7 @@ public class BaseSeleniumCrawler {
                 .replaceAll("(?i)TT\\.?\\s?", " thị trấn ")
                 .replaceAll("(?i)TX\\.?\\s?", " thị xã ")
                 .replaceAll("(?i)QL\\.?\\s?", " quốc lộ ")
+                .replaceAll("X\\.+", " xã ")
                 .replaceAll("\\s+", " ");
     }
 }

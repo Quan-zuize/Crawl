@@ -155,10 +155,14 @@ public class Utils {
             try{
                 WebElement closeElement = driver.findElement(By.cssSelector("button[aria-label][data-tooltip='Close directions']"));
                 new WebDriverWait(driver, Duration.ofSeconds(1)).until(ExpectedConditions.elementToBeClickable(By.cssSelector("button[aria-label][data-tooltip='Close directions']"))).click();
+                return null;
             }catch (Exception exception){
                 //ignore
             }
             searchBoxElement.clear();
+            if(checkIsClosed(driver)){
+                return null;
+            }
             return currentUrl;
         }
     }
@@ -206,6 +210,9 @@ public class Utils {
                 Utils.sleep(200);
             }
             searchBoxElement.clear();
+            if(checkIsClosed(driver)){
+                return null;
+            }
             return driver.getCurrentUrl();
         }
         return Utils.getUrlByOnlyAddress(driver, address);
@@ -232,12 +239,15 @@ public class Utils {
             i++;
         }
 
+        searchBoxElement.clear();
         try {
             driver.findElement(By.cssSelector("div[aria-label][role='feed']"));
             log.info("Multiple results, ignore: {}, {}", address, currentUrl);
             return null;
         } catch (Exception ignored) {
-            searchBoxElement.clear();
+            if(checkIsClosed(driver)){
+                return null;
+            }
             return currentUrl;
         }
     }
@@ -360,6 +370,15 @@ public class Utils {
         } catch (Exception e) {
             log.info("Current url not contain data {}", url);
             return null;
+        }
+    }
+
+    public static boolean checkIsClosed(ChromeDriver driver){
+        try{
+            WebElement warnElement = driver.findElement(By.className("OMl5r hH0dDd jBYmhd"));
+            return true;
+        }catch (Exception e){
+            return false;
         }
     }
 
